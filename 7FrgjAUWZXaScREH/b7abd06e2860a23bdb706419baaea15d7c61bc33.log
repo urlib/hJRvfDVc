@@ -1,0 +1,10 @@
+===============[START]===================
+LogLevel=3
+GetInstalledDriverVersion::[04-07-2019 09:59:13] 
+: GetInstalledDriverVersion function entered
+Main-WinMain::[04-07-2019 09:59:14] Passing commandLine to Launch class.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 09:59:14] SetErrorHandler is done.
+
+
+===============[ END ]===================
