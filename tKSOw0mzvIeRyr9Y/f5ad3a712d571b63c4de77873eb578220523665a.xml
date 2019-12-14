@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<skins version="1.0">
+
+  <global>
+    <colors mainbackground="#455b95" panebackground="#e5e8f8" />
+  </global>
+
+  <pictures>
+    <picture style="style1">
+      <skin id="background" image="skin\background1.png" />
+    </picture>
+    <picture style="mainui_slider_thumb">
+      <skin id="background" counts="4" arrange="v" image="skin\mainui_slider_thumb.png" />
+    </picture>
+    <picture style="mainui_logo">
+      <colors background="#ffffff" />
+      <skin id="background" image="skin\mainui_logo.png" />
+    </picture>
+    <picture style="logo2">
+      <colors background="#ffffff" />
+      <skin id="background" image="skin\logo2.png" />
+    </picture>
+    <picture style="overlay_filesubmit">
+      <skin id="background" counts="4" arrange="v" image="skin\new.png"/>
+    </picture>
+    <picture style="logo1">
+      <colors background="#ffffff" />
+      <skin id="background" image="skin\logo1.png" />
+    </picture>
+    <picture style="waiting">
+      <colors background="#ffffff" />
+      <skin id="background" image="skin\waiting.gif" />
+    </picture>
+    <picture style="request-waiting">
+      <skin id="background" image="skin\request-waiting.gif" />
+    </picture>
+  </pictures>
+
+  <menus>
+    <menu style="style1">
+      <colors textnormal="#000000" texthot="#000000" textdisabled="#000000" select="#000000" selectborder="#000000" separator="#000000" border="#000000" background="#000000"/>
+      <skins>
+        <skin id="check" image="skin\main_pane.png" />
+        <skin id="radio" image="skin\main_pane.png" />
+        <skin id="arrow" image="skin\main_pane.png" />
+      </skins>
+    </menu>
+  </menus>
+
+  <richmenus>
+    <richmenu style="style1">
+      <colors textnormal="#455b95" texthot="#455b95" textdisabled="#cccccc" separator="#000000" />
+      <skins>
+        <skin id="check" counts="1" arrange="v" leftsplit="8" rightsplit="32" topsplit="8" bottomsplit="32" image="skin\menu_check_1.png" />
+        <skin id="select" counts="1" arrange="v" leftsplit="8" rightsplit="32" topsplit="8" bottomsplit="17" image="skin\menu_select_1.png" />
+        <skin id="background" counts="1" arrange="v" leftsplit="8" rightsplit="32" topsplit="8" bottomsplit="12" image="skin\menu_background_1.png" />
+      </skins>
+    </richmenu>
+  </richmenus>
+
+  <buttons>
+    <button style="style1">
+      <colors background="#bfbfbf" normal="#455b95" hot="#455b95" down="#455b95" disabled="#f0f0f0" groupborder="#cccccc" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="6" rightsplit="14" topsplit="6" bottomsplit="14" image="skin\btn_backgnd_1.png" />
+        <skin id="dropdown" counts="1" image="skin\dropdown.png" />
+      </skins>
+    </button>
+    <button style="style2">
+      <colors background="#e5e8f8" normal="#333333" hot="#333333" down="#333333" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="6" rightsplit="14" topsplit="6" bottomsplit="14" image="skin\btn_backgnd_2.png" />
+        <skin id="dropdown" counts="1" image="skin\dropdown.png" />
+      </skins>
+    </button>
+    <button style="style3">
+      <colors background="#e5e8f8" normal="#ffffff" hot="#ffffff" down="#ffffff" disabled="#cccccc" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="12" rightsplit="18" topsplit="10" bottomsplit="12" image="skin\btn_backgnd_3.png" />
+      </skins>
+    </button>
+    <button style="style4">
+      <colors background="#e5e8f8" normal="#333333" hot="#333333" down="#333333" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="16" topsplit="4" bottomsplit="16" image="skin\btn_backgnd_4_1.png" />
+        <skin id="dropdown" counts="1" image="skin\dropdown.png" />
+      </skins>
+    </button>
+    <button style="style5">
+      <colors background="#e5e8f8" normal="#333333" hot="#333333" down="#333333" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="26" topsplit="4" bottomsplit="29" image="skin\btn_backgnd_5_1.png" />
+        <skin id="dropdown" counts="1" image="skin\dropdown.png" />
+      </skins>
+    </button>
+    <button style="checkbox1">
+      <colors background="#e5e8f8" normal="#455b95" hot="#455b95" down="#455b95" disabled="#cccccc" groupborder="#cccccc"/>
+      <adjustpos x="0" y="0" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" image="skin\checkbox_bk.png" />
+        <skin id="check" counts="4" arrange="v" image="skin\checkbox_check.png" />
+        <skin id="Indeterminate" counts="4" arrange="v" image="skin\checkbox_Indeterminate.png" />
+      </skins>
+    </button>
+    <button style="checkbox2">
+      <colors background="#455b95" normal="#e5e8f8" hot="#e5e8f8" down="#e5e8f8" disabled="#cccccc" groupborder="#cccccc"/>
+      <adjustpos x="0" y="0" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" image="skin\checkbox_bk.png" />
+        <skin id="check" counts="4" arrange="v" image="skin\checkbox_check.png" />
+        <skin id="Indeterminate" counts="4" arrange="v" image="skin\checkbox_Indeterminate.png" />
+      </skins>
+    </button>
+    <button style="groupbox1">
+      <colors background="#e5e8f8" normal="#455b95" hot="#455b95" down="#455b95" disabled="#cccccc" groupborder="#cccccc"/>
+    </button>
+    <button style="groupbox2">
+      <colors background="#455b95" normal="#e5e8f8" hot="#e5e8f8" down="#e5e8f8" disabled="#cccccc" groupborder="#cccccc"/>
+    </button>
+    <button style="union_button_left_1">
+      <colors background="#bfbfbf" normal="#455b95" hot="#455b95" down="#455b95" disabled="#808080" />
+      <adjustpos x="0" y="0" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="16" topsplit="4" bottomsplit="16" image="skin\btn_backgnd_4_2.png" />
+      </skins>
+    </button>
+    <button style="union_button_right_1">
+      <colors background="#bfbfbf" normal="#455b95" hot="#455b95" down="#455b95" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="16" topsplit="4" bottomsplit="16" image="skin\btn_backgnd_4_3.png" />
+      </skins>
+    </button>
+    <button style="union_button_left_2">
+      <colors background="#bfbfbf" normal="#455b95" hot="#455b95" down="#455b95" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="26" topsplit="4" bottomsplit="29" image="skin\btn_backgnd_5_2.png" />
+      </skins>
+    </button>
+    <button style="union_button_right_2">
+      <colors background="#bfbfbf" normal="#455b95" hot="#455b95" down="#455b95" disabled="#808080" />
+      <adjustpos x="0" y="-1" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="4" rightsplit="26" topsplit="4" bottomsplit="29" image="skin\btn_backgnd_5_3.png" />
+      </skins>
+    </button>
+  </buttons>
+
+  <headerctrls>
+    <headerctrl style="style1">
+      <colors text="#15428b" textshadow="#ffffff" />
+      <skins>
+        <skin id="background" leftsplit="6" rightsplit="14" image="skin\headerctrl_backgnd1.png" />
+        <skin id="separator" image="skin\headerctrl_separator1.png" />
+        <skin id="sort" counts="3" arrange="v"  image="skin\headerctrl_sort1.png" />
+      </skins>
+    </headerctrl>
+  </headerctrls>
+
+  <lists>
+    <list style="style1">
+      <substyles headerctrl="style1" />
+      <body>
+        <colors text="#15428b" textdesc="#c0c0c0" itema="#f1f4f8" itemb="#ffffff" textselected="#15428b" selectbackground="#ceecfa" border="#7f9db9" background="#ffffff"/>
+        <skins>
+          <skin id="checkbox" counts="4" arrange="v" image="skin\checkbox.png" />
+        </skins>
+      </body>
+    </list>
+  </lists>
+
+  <splitters>
+    <splitter style="style1">
+      <colors border="#a0a0a0" background="#f6f6f6" />
+      <skins>
+        <skin id="arrow" counts="6" arrange="v" image="skin\splitter_arrow_1.png" />
+      </skins>
+    </splitter>
+    <splitter style="style2">
+      <colors border="#a0a0a0" background="#f6f6f6" />
+      <skins>
+        <skin id="arrow" counts="6" arrange="v" image="skin\splitter_arrow_2.png" />
+      </skins>
+    </splitter>
+  </splitters>
+
+  <sliders>
+    <slider style="style1">
+      <colors background="#455b95" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="8" rightsplit="42" image="skin\slider_big.png" />
+        <skin id="thumb" counts="4" arrange="v" image="skin\slider_big_thumb.png" />
+        <skin id="mark" counts="1" arrange="v" image="skin\slider_mark_12.png" />
+        <skin id="segment_start" counts="1" arrange="v" image="skin\slider_point_a.png" />
+        <skin id="segment_end" counts="1" arrange="v" image="skin\slider_point_b.png" />
+      </skins>
+    </slider>
+    <slider style="style2">
+      <colors background="#455b95" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="6" rightsplit="44" image="skin\slider_small.png" />
+        <skin id="thumb" counts="4" arrange="v" image="skin\slider_small_thumb.png" />
+        <skin id="mark" counts="1" arrange="v" image="skin\slider_mark_12.png" />
+        <skin id="segment_start" counts="1" arrange="v" image="skin\slider_point_a.png" />
+        <skin id="segment_end" counts="1" arrange="v" image="skin\slider_point_b.png" />
+      </skins>
+    </slider>
+    <slider style="slider_orange">
+      <colors background="#e5e8f8" />
+      <skins>
+        <skin id="background" counts="4" arrange="v" leftsplit="6" rightsplit="34" image="skin\slider_orange.png" />
+        <skin id="thumb" counts="4" arrange="v" image="skin\slider_orange_thumb.png" />
+        <skin id="mark" counts="1" arrange="v" image="skin\slider_mark_12.png" />
+        <skin id="segment_start" counts="1" arrange="v" image="skin\slider_point_a.png" />
+        <skin id="segment_end" counts="1" arrange="v" image="skin\slider_point_b.png" />
+      </skins>
+    </slider>
+  </sliders>
+
+  <statusbars>
+    <statusbar style="style1">
+      <colors textnormal="#ffffff" textdisabled="#a8b7d6" paneborder="#6279b2" background="#314371"/>
+      <skins>
+        <skin id="background" leftsplit="2" rightsplit="4" image="skin\frame_statusbar.png" />
+      </skins>
+    </statusbar>
+  </statusbars>
+
+  <toolbars>
+    <toolbar style="style1">
+      <colors background="#bfbfbf" text="#333333" border="#506eaa" separator1="#b0b0b0" separator2="#e2e2e2" />
+      <substyles button="style1" unionbutton1="union_button_left_1" unionbutton2="union_button_right_1" />
+    </toolbar>
+    <toolbar style="style2">
+      <colors background="#ededee" text="#333333" border="#506eaa" separator1="#b8c0e3" separator2="#ffffff" />
+      <substyles button="style2" unionbutton1="union_button_left_1" unionbutton2="union_button_right_1"/>
+    </toolbar>
+    <toolbar style="style3">
+      <colors background="#ededee" text="#333333" border="#506eaa" separator1="#b8c0e3" separator2="#ffffff" />
+      <substyles button="style4" unionbutton1="union_button_left_1" unionbutton2="union_button_right_1"/>
+    </toolbar>
+    <toolbar style="style5">
+      <colors background="#ededee" text="#333333" border="#506eaa" separator1="#b8c0e3" separator2="#ffffff" />
+      <substyles button="style5" unionbutton1="union_button_left_2" unionbutton2="union_button_right_2"/>
+    </toolbar>
+  </toolbars>
+
+  <floatbars>
+    <floatbar style="main">
+      <colors tiptext="#505050" tiptextshadow="#000000" label="#303030" title="#ffffff"/>
+      <property title_height="0" drag_rect="0,0,-1,-1" peek_height="8" />
+      <controls>
+        <control class="nwbutton" id="fold">
+          <position rect="-39,0,32,32" />
+          <skin id="buttonfold" counts="4" arrange="v" image="skin\floatbar_fold.png" />
+        </control>
+        <control class="nwbutton" id="pin">
+          <position rect="-39,31,32,32" />
+          <skin id="buttonpin" counts="4" arrange="v" image="skin\floatbar_pin.png" />
+        </control>
+      </controls>
+      <skins>
+        <skin id="background" leftsplit="14" rightsplit="58" image="skin\floatbar_background.png" />
+        <skin id="buttonbackgnd" counts="4" arrange="v" leftsplit="5" rightsplit="16" topsplit="5" bottomsplit="16" image="skin\floatbar_button_background.png" />
+        <skin id="separator" topsplit="4" bottomsplit="6" image="skin\floatbar_separator.png" />
+        <skin id="dropdown" counts="1" image="skin\floatbar_dropdown.png" />
+        <skin id="tipbackground" leftsplit="6" rightsplit="36" topsplit="6" bottomsplit="20" image="skin\floatbar_tipbackground.png" />
+      </skins>
+    </floatbar>
+  </floatbars>
+
+  <balloons>
+    <balloon style="style1">
+      <colors caption="#3e3e3e" title="#3e3e3e" item="#3e3e3e" hotitem="#015fb6"/>
+      <fonts>
+        <font id="caption" name="MS Sans Serif" bold="yes" italic="no" underline="no" size="10" />
+        <font id="title" name="MS Sans Serif" bold="yes" italic="no" underline="no" size="10" />
+        <font id="item" name="MS Sans Serif" bold="no" italic="no" underline="no" size="10" />
+      </fonts>
+      <skins>
+        <skin id="background" leftsplit="10" rightsplit="30" topsplit="10" bottomsplit="30" image="skin\balloon_bk_1.png" />
+        <skin id="close" counts="4" arrange="v" image="skin\balloon_close_1.png" />
+        <skin id="icon" image="skin\balloon_teacher.png" />
+      </skins>
+    </balloon>
+    <balloon style="style2">
+      <colors caption="#3e3e3e" title="#3e3e3e" item="#3e3e3e" hotitem="#015fb6"/>
+      <fonts>
+        <font id="caption" name="MS Sans Serif" bold="yes" italic="no" underline="no" size="10" />
+        <font id="title" name="MS Sans Serif" bold="yes" italic="no" underline="no" size="10" />
+        <font id="item" name="MS Sans Serif" bold="no" italic="no" underline="no" size="10" />
+      </fonts>
+      <skins>
+        <skin id="background" leftsplit="10" rightsplit="30" topsplit="10" bottomsplit="30" image="skin\balloon_bk_1.png" />
+        <skin id="close" counts="4" arrange="v" image="skin\balloon_close_1.png" />
+        <skin id="icon" image="skin\balloon_student.png" />
+      </skins>
+    </balloon>
+  </balloons>
+
+  <tabctrls>
+    <tabctrl style="style1">
+      <colors background="#bfbfbf" textactive="#506aad" textnormal="#506aad" texthot="#506aad" />
+      <layout upward="no" />
+      <skins>
+        <skin id="tabitem" counts="4" arrange="v" leftsplit="6" rightsplit="14" image="skin\tab_item.png" />
+        <skin id="dropdown" counts="4" arrange="v" image="skin\tab_button_dropdown.png" />
+        <skin id="buttonclose" counts="4" arrange="v" image="skin\tab_button_close.png" />
+        <skin id="buttonnew" counts="4" arrange="v" image="skin\tab_button_new.png" />
+      </skins>
+    </tabctrl>
+    <tabctrl style="style2">
+      <colors background="#bfbfbf" textactive="#506aad" textnormal="#506aad" texthot="#506aad" />
+      <layout upward="yes" />
+      <skins>
+        <skin id="tabitem" counts="4" arrange="v" leftsplit="10" rightsplit="20" image="skin\tab_item_up.png" />
+        <skin id="dropdown" counts="4" arrange="v" image="skin\tab_button_dropdown.png" />
+        <skin id="buttonclose" counts="4" arrange="v" image="skin\tab_button_close.png" />
+        <skin id="buttonnew" counts="4" arrange="v" image="skin\tab_button_new.png" />
+      </skins>
+    </tabctrl>
+    <tabctrl style="style3">
+      <colors background="#e5e8f8" textactive="#506aad" textnormal="#506aad" texthot="#506aad" />
+      <layout upward="no" />
+      <skins>
+        <skin id="tabitem" counts="4" arrange="v" leftsplit="6" rightsplit="14" image="skin\tab_item_2.png" />
+        <skin id="dropdown" counts="4" arrange="v" image="skin\tab_button_dropdown.png" />
+        <skin id="buttonclose" counts="4" arrange="v" image="skin\tab_button_close.png" />
+        <skin id="buttonnew" counts="4" arrange="v" image="skin\tab_button_new.png" />
+      </skins>
+    </tabctrl>
+    <tabctrl style="style4">
+      <colors background="#e5e8f8" textactive="#506aad" textnormal="#506aad" texthot="#506aad" />
+      <layout upward="yes" />
+      <skins>
+        <skin id="tabitem" counts="4" arrange="v" leftsplit="10" rightsplit="20" image="skin\tab_item_up_2.png" />
+        <skin id="dropdown" counts="4" arrange="v" image="skin\tab_button_dropdown.png" />
+        <skin id="buttonclose" counts="4" arrange="v" image="skin\tab_button_close.png" />
+        <skin id="buttonnew" counts="4" arrange="v" image="skin\tab_button_new.png" />
+      </skins>
+    </tabctrl>
+  </tabctrls>
+
+  <panes>
+    <pane style="style1">
+      <colors background="#bfbfbf" client="#bfbfbf" />
+      <skins>
+        <skin id="background" leftsplit="6" rightsplit="24" topsplit="6" bottomsplit="24" image="skin\main_pane.png" />
+      </skins>
+    </pane>
+    <pane style="style2">
+      <colors background="#bfbfbf" client="#ffffff" />
+      <skins>
+        <skin id="background" leftsplit="5" rightsplit="7" topsplit="6" bottomsplit="8" image="skin\inner_pane.png" />
+      </skins>
+    </pane>
+    <pane style="style3">
+      <colors background="#455b95" client="#ffffff" />
+      <skins>
+        <skin id="background" leftsplit="18" rightsplit="20" topsplit="13" bottomsplit="15" image="skin\vr_player_pane1.png" />
+      </skins>
+    </pane>
+    <pane style="style4">
+      <colors background="#455b95" client="#e5e8f8" />
+      <skins>
+        <skin id="background" leftsplit="4" rightsplit="6" topsplit="7" bottomsplit="9" image="skin\vr_player_pane2.png" />
+      </skins>
+    </pane>
+
+    <pane style="style5">
+      <colors background="#455b95" client="#e5e8f8" />
+      <skins>
+        <skin id="background" leftsplit="10" rightsplit="12" topsplit="8" bottomsplit="9" image="skin\pane_top_round_corners.png" />
+      </skins>
+    </pane>
+
+    <pane style="style6">
+      <colors background="#455b95" client="#e5e8f8" />
+      <skins>
+        <skin id="background" leftsplit="10" rightsplit="12" topsplit="1" bottomsplit="2" image="skin\pane_bottom_round_corners.png" />
+      </skins>
+    </pane>
+
+    <pane style="style7">
+      <colors background="#e5e8f8" client="#ffffff" />
+      <skins>
+        <skin id="background" leftsplit="6" rightsplit="8" topsplit="1" bottomsplit="3" image="skin\pane_video_caption.png" />
+      </skins>
+    </pane>
+
+    <!--repeat module's control pane-->
+    <clientpane style="style1">
+      <colors background="#455b95" />
+      <skins>
+        <skin id="background" leftsplit="590" rightsplit="598" image="skin\vr_player_pane3.png" />
+      </skins>
+    </clientpane>
+
+    <pane style="globalpane">
+      <colors background="#e9e9e9" client="#d3d3d3" />
+      <skins>
+        <skin id="background" leftsplit="6" rightsplit="114" topsplit="6" bottomsplit="164" image="skin\globalpane.png" />
+      </skins>
+    </pane>
+
+    <pane style="classmgrpane">
+      <colors background="#d3d3d3" client="#ededed" />
+      <skins>
+        <skin id="background" leftsplit="5" rightsplit="55" topsplit="5" bottomsplit="55" image="skin\classmgrpane.png" />
+      </skins>
+    </pane>
+
+    <pane style="messagepane">
+      <colors background="#d3d3d3" client="#ffffff" />
+      <skins>
+        <skin id="background" leftsplit="5" rightsplit="55" topsplit="5" bottomsplit="55" image="skin\messagepane.png" />
+      </skins>
+    </pane>
+
+    <pane style="volumepane">
+      <colors background="#d3d3d3" client="#ededed" />
+      <skins>
+        <skin id="background" leftsplit="5" rightsplit="55" topsplit="5" bottomsplit="55" image="skin\volumepane.png" />
+      </skins>
+    </pane>
+
+  </panes>
+
+  <windows>
+    <window style="mainframe">
+      <colors background="#455b95" caption="#ffe943" />
+      <skins>
+        <skin id="caption" counts="2" arrange="v" leftsplit="8" rightsplit="12" image="skin\frame_caption.png" />
+        <skin id="leftborder" counts="2" arrange="v" topsplit="4" bottomsplit="6" image="skin\frame_left.png" />
+        <skin id="rightborder" counts="2" arrange="v" topsplit="4" bottomsplit="6" image="skin\frame_right.png" />
+        <skin id="bottomborder" counts="2" arrange="v" leftsplit="8" rightsplit="12" image="skin\frame_bottom.png" />
+        <skin id="caption_min" counts="2" arrange="v" leftsplit="10" rightsplit="50" image="skin\frame_caption_min.png" />
+      </skins>
+
+      <controls>
+        <!-- min, max, close -->
+        <control class="nwbutton" id="close">
+          <position rect="-40,9,30,18" />
+          <skin counts="4" arrange="v" image="skin\frame_close.png" />
+        </control>
+        <control class="nwbutton" id="maximize">
+          <position rect="-67,9,27,18" />
+          <skin counts="8" arrange="v" image="skin\frame_maximize.png" />
+        </control>
+        <control class="nwbutton" id="minimize">
+          <position rect="-97,9,30,18" />
+          <skin counts="8" arrange="v" image="skin\frame_minimize.png" />
+        </control>
+        <control class="nwbutton" id="singleclose">
+          <position rect="-50,9,40,18" />
+          <skin counts="4" arrange="v" image="skin\frame_single_close.png" />
+        </control>
+
+        <!-- menubar -->
+        <control class="menubar" id="framemenu">
+          <colors textnormal="#ffffff" texthot="#ffe943" textdown="#ffe943" />
+          <skins>
+            <skin id="background" counts="2" arrange="v" leftsplit="4" rightsplit="16" image="skin\frame_menubar.png" />
+            <skin id="itembk" counts="4" arrange="v" leftsplit="11" rightsplit="13" image="skin\frame_menubar_btn.png" />
+          </skins>
+          <substyles menu="style1" />
+        </control>
+      </controls>
+
+      <client>
+        <colors text="#e5e8f8" background="#455b95" />
+        <imagepane>
+          <colors text="#455b95" background="#e5e8f8" fill="yes"/>
+          <skin leftsplit="10" rightsplit="12" topsplit="8" bottomsplit="10" image="skin\main_pane.png" />
+        </imagepane>
+      </client>
+
+    </window>
+
+    <window style="dialog">
+      <colors background="#455b95" caption="#ffe943" />
+      <skins>
+        <skin id="caption" counts="2" arrange="v" leftsplit="8" rightsplit="12" image="skin\frame_caption.png" />
+        <skin id="leftborder" counts="2" arrange="v" topsplit="4" bottomsplit="6" image="skin\frame_left.png" />
+        <skin id="rightborder" counts="2" arrange="v" topsplit="4" bottomsplit="6" image="skin\frame_right.png" />
+        <skin id="bottomborder" counts="2" arrange="v" leftsplit="8" rightsplit="12" image="skin\dialog_bottom.png" />
+        <skin id="caption_min" counts="2" arrange="v" leftsplit="10" rightsplit="50" image="skin\frame_caption_min.png" />
+      </skins>
+
+      <controls>
+        <!-- min, max, close -->
+        <control class="nwbutton" id="close">
+          <position rect="-40,9,30,18" />
+          <skin counts="4" arrange="v" image="skin\frame_close.png" />
+        </control>
+        <control class="nwbutton" id="maximize">
+          <position rect="-67,9,27,18" />
+          <skin counts="8" arrange="v" image="skin\frame_maximize.png" />
+        </control>
+        <control class="nwbutton" id="minimize">
+          <position rect="-97,9,30,18" />
+          <skin counts="8" arrange="v" image="skin\frame_minimize.png" />
+        </control>
+        <control class="nwbutton" id="singleclose">
+          <position rect="-50,9,40,18" />
+          <skin counts="4" arrange="v" image="skin\frame_single_close.png" />
+        </control>
+
+      </controls>
+
+      <client>
+        <colors text="#e5e8f8" background="#455b95" />
+        <imagepane>
+          <colors text="#455b95" background="#e5e8f8" fill="yes"/>
+          <skin leftsplit="10" rightsplit="12" topsplit="8" bottomsplit="10" image="skin\main_pane.png" />
+        </imagepane>
+      </client>
+
+    </window>
+
+    <window style="window_ncskin_pane">
+      <colors background="#455b95" caption="#ffe943" />
+      <skins>
+        <skin id="caption" leftsplit="10" rightsplit="12" image="skin\window_pane_caption.png" />
+        <skin id="leftborder" topsplit="4" bottomsplit="6" image="skin\window_pane_left.png" />
+        <skin id="rightborder" topsplit="4" bottomsplit="6" image="skin\window_pane_right.png" />
+        <skin id="bottomborder" leftsplit="10" rightsplit="12" image="skin\window_pane_bottom.png" />
+      </skins>
+      <client>
+        <colors text="#455b95" background="#e5e8f8" />
+      </client>
+    </window>
+
+    <window style="window_clientskin_pane">
+      <colors background="#455b95" caption="#ffe943" />
+      <client>
+        <colors text="#e5e8f8" background="#455b95" />
+        <imagepane>
+          <colors text="#455b95" background="#e5e8f8" fill="yes"/>
+          <skin leftsplit="10" rightsplit="12" topsplit="8" bottomsplit="10" image="skin\main_pane.png" />
+        </imagepane>
+      </client>
+    </window>
+
+    <window style="window_clientbkcolor_pane">
+      <colors background="#455b95" caption="#ffe943" />
+      <client>
+        <colors text="#455b95" background="#e5e8f8" />
+      </client>
+    </window>
+
+    <window style="window_clientbkcolor_main">
+      <colors background="#455b95" caption="#ffe943" />
+      <client>
+        <colors text="#e5e8f8" background="#455b95" />
+      </client>
+    </window>
+
+  </windows>
+
+</skins>
