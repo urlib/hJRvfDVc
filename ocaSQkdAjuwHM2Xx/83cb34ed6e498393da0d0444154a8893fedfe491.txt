@@ -1,0 +1,96 @@
+hwsig=23B26DDBBD975D7BE62BA570D29C60CF
+version=9.3.0.3129
+//=====================================================
+Time: 2019.12.14 11:54:27 912
+Application: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Exception code: E0000008 
+Fault address:  000007FEFD67A06D 01:0001906D C:\Windows\system32\KERNELBASE.dll
+Exception Param:00000000008E26D0	
+CPU mode: AMD64
+Registers:RAX:0000000064F623B2 RBX:000007FEDC452620 RCX:0000000009AFDE20 RDX:00000000000000B0 RSI:00000000008E26D0 RDI:00000000008E26D0 CS:RIP:0033:000007FEFD67A06D SS:RSP:002B:0000000009AFE430 RBP:0000000000191958 DS:002B FS:0053 GS:002B Flags:00000206
+
+---------------------------------------------------
+Processes:
+    [0] [System Process]
+    [4] System
+    [288] smss.exe
+    [444] csrss.exe
+    [660] wininit.exe
+    [680] csrss.exe
+    [728] services.exe
+    [752] lsass.exe
+    [760] winlogon.exe
+    [768] lsm.exe
+    [884] svchost.exe
+    [960] svchost.exe
+    [308] svchost.exe
+    [684] svchost.exe
+    [900] svchost.exe
+    [1040] svchost.exe
+    [1112] svchost.exe
+    [1232] svchost.exe
+    [1408] spoolsv.exe
+    [1436] svchost.exe
+    [1592] taskhost.exe
+    [1616] taskeng.exe
+    [1876] schtasks.exe
+    [1884] conhost.exe
+    [1932] RadeonSettings.exe
+    [1220] svchost.exe
+    [1524] samservice.exe
+    [2008] GATESRV.exe
+    [1548] AMDRSServ.exe
+    [2088] bufmonitor.exe ("C:\Windows\SysWOW64\lenovo\bufmonitor.exe" ) 
+    [2148] samproprocess.exe ("C:\Program Files (x86)\Lenovo\EDU\Client\samproprocess.exe" ) 
+    [2156] LenRCClient.exe ("C:\Program Files (x86)\Lenovo\EDU\Client\LenRCClient.exe" ) 
+    [2336] amdow.exe
+    [2608] WmiPrvSE.exe
+    [1976] ProcHelper64.exe
+    [2652] SearchIndexer.exe
+    [2060] WmiPrvSE.exe
+    [1140] RAVBg64.exe
+    [3984] svchost.exe
+    [4772] taskhost.exe
+    [4568] svchost.exe
+    [5304] explorer.exe
+    [3212] SogouCloud.exe ("C:\Program Files (x86)\SogouInput\9.3.0.3129\SogouCloud.exe" -daemon) 
+    [5316] dwm.exe
+    [5088] GoogleCrashHandler.exe
+    [5544] GoogleCrashHandler64.exe
+    [5360] Code.exe
+    [5240] Code.exe
+    [5328] Code.exe
+    [6792] Code.exe
+    [2460] Code.exe
+    [6424] Code.exe
+    [6904] CodeHelper.exe ("c:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe" c:\Users\Administrator\Desktop\WorkSpace) 
+    [3296] conhost.exe
+    [3888] Code.exe
+    [1912] Microsoft.VSCode.CPP.Extension.exe (c:\Users\Administrator\.vscode\extensions\ms-vscode.cpptools-0.26.2\bin\Microsoft.VSCode.CPP.Extension.exe) 
+    [920] conhost.exe
+    [3356] python.exe
+    [6108] conhost.exe
+    [6064] python.exe
+    [1168] conhost.exe
+    [5612] Microsoft.VSCode.CPP.IntelliSense.Msvc.exe ("c:\Users\Administrator\.vscode\extensions\ms-vscode.cpptools-0.26.2/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.exe" 1912 1) 
+    [4940] python.exe
+    [6896] conhost.exe
+    [6692] python.exe
+    [5408] conhost.exe
+    [6596] Microsoft.VSCode.CPP.IntelliSense.Msvc.exe ("c:\Users\Administrator\.vscode\extensions\ms-vscode.cpptools-0.26.2/bin/Microsoft.VSCode.CPP.IntelliSense.Msvc.exe" 1912 6) 
+    [1448] chrome.exe
+    [4928] conhost.exe
+    [3032] chrome.exe
+    [1656] chrome.exe
+    [5988] chrome.exe
+    [4256] MasterHelper.exe
+    [3508] chrome.exe
+    [7052] chrome.exe
+    [4208] taskmgr.exe
+    [4204] chrome.exe
+    [2056] taskeng.exe
+    [3604] chrome.exe
+    [5504] chrome.exe
+    [5380] chrome.exe
+    [3204] chrome.exe
+    [1360] crashrpt.exe ("C:\Program Files (x86)\SogouInput\Components\crashrpt.exe" "Picface.dll" "sogoupy" "0" "crush.dmp" "crush.rpt") 
