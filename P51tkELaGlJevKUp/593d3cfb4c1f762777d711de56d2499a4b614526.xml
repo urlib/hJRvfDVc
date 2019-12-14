@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<KeyDefinitions   modifierType="Normal" payloadType="ScanCode" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation=".\..\KeyDefinitionSchema.xsd">
+<State modifier="Any">
+<Key  Id="10301" payloadType="Unicode" primary="http://" accessibilityName="15068" repeat="0"/>
+<Key  Id="10302" payloadType="Unicode" primary=".com" accessibilityName="15049" repeat="0"/>
+<Key  Id="10303" payloadType="Unicode" primary="www." accessibilityName="15069" repeat="0"/>
+<Key  Id="10304" payloadType="Unicode" primary=".net" accessibilityName="15070" repeat="0"/>
+<Key  Id="10305" payloadType="Unicode" primary=".org" accessibilityName="15071" repeat="0"/>
+<Key  Id="10306" payloadType="Unicode" repeat="0" accessibilityName="15050"/>
+<Key  Id="10307" payloadType="Unicode" primary=".co" accessibilityName="15051" repeat="0"/>
+<Key  Id="10218" payloadType="Unicode" primary="." font1="2" bold1="true" />
+<Key  Id="10309" payloadType="Unicode" primary="/" />
+<Key  Id="20218" payloadType="Unicode" primary="." font1="2" bold1="true" />
+<Key  Id="20309" payloadType="Unicode" primary="/" />
+</State> 
+</KeyDefinitions>
