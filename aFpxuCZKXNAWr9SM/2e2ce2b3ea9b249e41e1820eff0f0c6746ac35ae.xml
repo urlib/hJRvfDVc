@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ace version="2">
+  <component name="Dashboard" company="ATI.ACE"  multiInstance="false">
+    <location file="CLI.Component.Dashboard" ext="dll">
+    </location>
+    <caste name="DB_GraphicsCaste" company="ATI.ACE" filter="">
+      <location file="CLI.Caste.Graphics.Dashboard" ext="dll">
+      </location>
+      <aspect name="DB_TutorialInfoCentre" company="ATI.ACE" filter="">
+        <location file="CLI.AIB.TutorialInfoCentre.Tutorial.Dashboard" ext="dll">
+        </location>
+      </aspect>
+    </caste>
+  </component>
+</ace>
