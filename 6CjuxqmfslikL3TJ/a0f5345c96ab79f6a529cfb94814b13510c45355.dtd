@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Features (Feature+) >
+<!ELEMENT Feature (Option+) >
+<!ELEMENT Option (Include*) >
+<!ELEMENT Include EMPTY >
+<!ATTLIST Feature name CDATA #REQUIRED >
+<!ATTLIST Option name CDATA #REQUIRED >
+<!ATTLIST Include item CDATA #REQUIRED >
