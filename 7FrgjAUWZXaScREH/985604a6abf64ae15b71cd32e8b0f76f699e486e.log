@@ -1,0 +1,165 @@
+===============[START]===================
+LogLevel=3
+error in SetCfgFile::[04-07-2019 09:59:14]  IMConfig file = >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Config\InstallManager.cfg<
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[04-07-2019 09:59:14] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[04-07-2019 09:59:14] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 09:59:14] SetErrorHandler is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:14] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:19] GetIIMSettings is done.
+
+CInstallMgr::downloaderthread::[04-07-2019 09:59:27] Finalyzing Download -bAllDone: 1 bNoRespone: 1 nDownloadedSize: -1 nDownloadingSize: 100225 nTotalDrvBytes: 100225 nStartDwnldbytes: 100225
+CInstallMgr::downloaderthread::[04-07-2019 09:59:27] Finalyzing Download - WaitForSingleObject - DOWNLOADCOMPLETED
+CLauncher::Initialize::[04-07-2019 09:59:27] Customer Support JSON file is downloaded
+CLauncher::IsAnalyticsEnabled::[04-07-2019 09:59:27] Analytics is ON
+
+CLauncher::RemoverelauncherTask::[04-07-2019 09:59:27] Removed Clean install Scheduler.
+
+CQtInstallerFacade::Initialize::[04-07-2019 09:59:27] Initializing things...
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:27] GetIIMSettings is done.
+
+LanguageManager::[04-07-2019 09:59:27] SetInitialLaunchOrder()- startup language is now checking under USER_UI
+LanguageManager::[04-07-2019 09:59:27] LoadLanguage() found 2052
+LanguageManager::[04-07-2019 09:59:27] SetInitialLaunchOrder()- startup language detected to be 2052 from USER_UI, will now set this language
+LanguageManager::[04-07-2019 09:59:27] SetLanguage()- current language changed to 2052, notification sent
+LanguageManager::[04-07-2019 09:59:27] LanguageManager Created
+CBranding::LoadResources::[04-07-2019 09:59:28] Resource(branding.rcc) loading failed.
+CBranding::LoadCustomBrandingJSONFile::[04-07-2019 09:59:28] Custom json file not found.
+CPackageSelection::checkforCWGEligibility::[04-07-2019 09:59:28] Failed OS check and OS found is Windows7.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 09:59:28] GetIIMSettings is done.
+
+CInstallMgr::Pre_Install::[00000000049BF850] BuildVersion from cfg file is 1 
+
+CInstallMgr::OnStart::[04-07-2019 09:59:43] DETECT_MAIN
+Pre_Detection Phase::[04-07-2019 09:59:43] Pre Detection start
+Pre_Detection Phase::[04-07-2019 09:59:43] Detect Installed Packages
+Pre_Detection Phase::[04-07-2019 09:59:43] Start Detecting system HW & SW information
+DCM::[04-07-2019 09:59:43] OS details : <Windows 7 Ultimate 64bit  Version 6.1 Build 7601 Service Pack 1.0>
+CATIHardware::Detect::[000000000E35FAD0] starting 
+
+CDCMPCIDriver::[000000000E35E7E0] LoadDriver starting...
+CDCMPCIDriver::[000000000E35E7E0] Loaded Detection Driver successfully
+CDCMPciDetector::[000000000E35F8A0]  Scanning devices starts...
+CDCMPciBaseDetector::[000000000E35EA10] ScanAllPciDevices starting...
+CDCMPciBaseDetector::ScanAllPciDevices::[04-07-2019 09:59:50] umber of cards are less than two
+CDCMPciBaseDetector::[000000000E35EA10]  IsFromNetworkPath() is :0  bPXSupported is : 0 
+CDCMPciBaseDetector::[000000000E35EA10]  IF: IsFromNetworkPath() is :0  bPXSupported is : 0 
+CDCMPciDetector::[000000000E35F8A0]  Scanning devices finished. The scanning process toke 0 milliseconds...
+CDCMPciDetector::[000000000E35F8A0]  Analyzing scanned information ...
+CDCMPciDetector::[000000000E35F8A0]   Unloading Driver......
+CDCMPciDetector::[000000000E35F8A0]  UnloadDriver...
+DCM::[04-07-2019 10:00:11] Begin looping through all devices <34>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x9840>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <CARRIZO 9874>; DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+GetATIHardware::[04-07-2019 10:00:11] card is ATI
+
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1578>; SSID: <0x1578>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157a>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1570>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1571>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1572>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1573>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1574>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1575>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1576>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x1577>; SSID: <0x1577>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157b>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157b>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x157d>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x7901>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:00:11] ATI Hardware -> MarketingName: <>; DID: <0x790b>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:00:11] Done looping through all devices <34>
+
+GetPrimaryCardNumber::[04-07-2019 10:00:11] PrimaryCard is 0x9874
+
+CATIHardware::IsPXSupported::[04-07-2019 10:00:11] number of graphics cards are less than two
+CATIHardware::IsPXSupported::[04-07-2019 10:00:11] number of graphics cards are less than two
+CGetATIHardware::[04-07-2019 10:00:11] it is not hybrid
+CGetATIHardware::[04-07-2019 10:00:11] it is not NVMeController
+CGetATIHardware::[04-07-2019 10:00:11] it is not IsWWANUSBFilterController
+DCM::GetMinSystemInfo::[04-07-2019 10:00:13] GraphicType is LOG_DIANOSTIC
+RM::SetLocalSpec::[04-07-2019 10:00:13] List of detected drivers passed into RM:
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {4d36e97d-e325-11ce-bfc1-08002be10318}, Date: 9-30-2013, Version: 1.0.3.22
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: NULL_DRIVER
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}, Date: 6-27-2016, Version: 2.22.0.5
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: amdpsp_Device_20
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {4d36e96a-e325-11ce-bfc1-08002be10318}, Date: 3-29-2015, Version: 1.2.1.402
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: amd_sata_inst
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {4d36e97d-e325-11ce-bfc1-08002be10318}, Date: 1-18-2015, Version: 5.12.0.31
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDSMBus64
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDXHC
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:00:13] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:00:13] INFSection: AMDHUB30
+
+CInstallMgr::pre_install_fullbuild::[00000000049BF180] Internet connection is available and checking for latest available drivers.
+
+CQtInstallerFacade::HandleReboot::[04-07-2019 10:02:33] Removed UpgradeAMD and UninstallCIM reg keys.
+
+CQtInstallerFacade::HandleReboot::[04-07-2019 10:02:33] Removed PCIDriverviaCIM reg keys.
+
+CInstallerFacade::HandleReboot::[04-07-2019 10:02:33] Reboot is not at all required
+LanguageManager::[04-07-2019 10:02:33] LanguageManager Deleted
+CUiErrorHandler::GetFinalErrorStatus::[04-07-2019 10:02:33] m_eFinalStatus: 0 
+
+CUiErrorHandler::GetFinalErrorStatus::[04-07-2019 10:02:33] m_eFinalStatus: 0 
+
+
+===============[ END ]===================
