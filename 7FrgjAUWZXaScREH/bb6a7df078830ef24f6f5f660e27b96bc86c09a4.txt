@@ -1,0 +1,36 @@
+SetupCD::Setup launched from local disk
+
+SetupCD::command line: ><
+
+SetupCD::From CD == false
+
+SetupCD::Not From Installed Directory
+
+SetupCD::Launching CD Version or network CIM
+
+SetupCD::cmd >"C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64\RadeonInstaller.exe"  /IGNORE_UPGRADE<, cwd >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64<
+
+SetupCD::Setup launched from local disk
+
+SetupCD::command line: ><
+
+SetupCD::From CD == false
+
+SetupCD::Not From Installed Directory
+
+SetupCD::Launching CD Version or network CIM
+
+SetupCD::cmd >"C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64\RadeonInstaller.exe"  /IGNORE_UPGRADE<, cwd >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64<
+
+SetupCD::Setup launched from local disk
+
+SetupCD::command line: ><
+
+SetupCD::From CD == false
+
+SetupCD::Not From Installed Directory
+
+SetupCD::Launching CD Version or network CIM
+
+SetupCD::cmd >"C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64\RadeonInstaller.exe"  /IGNORE_UPGRADE<, cwd >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Bin64<
+
