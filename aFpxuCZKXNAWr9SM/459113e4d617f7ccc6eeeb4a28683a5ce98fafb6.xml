@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package name="Branding">
+	<Include file="CLI.AIB.TutorialInfoCentre.Tutorial.Dashboard" extension="DLL" nGen="False" GAC="True" />
+</Package>
