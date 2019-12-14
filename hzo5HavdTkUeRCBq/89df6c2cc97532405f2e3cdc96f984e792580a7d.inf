@@ -1,0 +1,94 @@
+;;;
+;;; TDFileFilter
+;;; 
+;;; 
+;;; Copyright, MythWare Corporation
+;;;
+
+[Version]
+Signature   = "$Windows NT$"
+Class       = "ActivityMonitor"                         ;This is determined by the work this filter driver does
+ClassGuid   = {b86dff51-a31e-4bac-b3cf-e8cfe75c9fc2}    ;This value is determined by the Class
+Provider    = %MW%
+DriverVer   = 08/16/2011,1.0.0.1
+
+[DestinationDirs.ntamd64]
+DefaultDestDir          = %10%\SysWOW64\drivers
+MiniFilter.DriverFiles  = %10%\SysWOW64\drivers
+
+[DefaultInstall.ntamd64]
+OptionDesc          = %ServiceDescription%
+;;CopyFiles           = MiniFilter.DriverFiles
+
+[DefaultInstall.ntamd64.Services]
+AddService          = %ServiceName%,,MiniFilter.Service64
+
+[DefaultUninstall.ntamd64]
+DelFiles   = MiniFilter.DriverFiles
+
+[DefaultUninstall.ntamd64.Services]
+DelService = %ServiceName%,0x200      ;Ensure service is stopped before deleting
+
+[MiniFilter.Service64]
+DisplayName      = %ServiceName%
+Description      = %ServiceDescription%
+ServiceBinary    = %10%\syswow64\drivers\%DriverName%.sys        ;%windir%\system32\drivers\
+Dependencies     = "FltMgr"
+ServiceType      = 2                            ;SERVICE_FILE_SYSTEM_DRIVER
+StartType        = 2                            ;SERVICE_AUTO_START
+ErrorControl     = 1                            ;SERVICE_ERROR_NORMAL
+LoadOrderGroup   = "FSFilter Activity Monitor"
+AddReg           = MiniFilter.AddRegistry
+
+[DestinationDirs.ntx86]
+DefaultDestDir          = 12
+MiniFilter.DriverFiles  = 12  ;%windir%\system32\drivers
+
+[DefaultInstall.ntx86]
+OptionDesc          = %ServiceDescription%
+;;CopyFiles           = MiniFilter.DriverFiles
+
+[DefaultInstall.ntx86.Services]
+AddService          = %ServiceName%,,MiniFilter.Service32
+
+[DefaultUninstall.ntx86]
+DelFiles   = MiniFilter.DriverFiles
+
+[DefaultUninstall.ntx86.Services]
+DelService = %ServiceName%,0x200      ;Ensure service is stopped before deleting
+
+[MiniFilter.Service32]
+DisplayName      = %ServiceName%
+Description      = %ServiceDescription%
+ServiceBinary    = %12%\%DriverName%.sys        ;%windir%\system32\drivers\
+Dependencies     = "FltMgr"
+ServiceType      = 2                            ;SERVICE_FILE_SYSTEM_DRIVER
+StartType        = 2                            ;SERVICE_AUTO_START
+ErrorControl     = 1                            ;SERVICE_ERROR_NORMAL
+LoadOrderGroup   = "FSFilter Activity Monitor"
+AddReg           = MiniFilter.AddRegistry
+
+;
+; Registry Modifications
+;
+
+[MiniFilter.AddRegistry]
+HKR,,"DebugFlags",0x00010001 ,0x0
+HKR,"Instances","DefaultInstance",0x00000000,%DefaultInstance%
+HKR,"Instances\"%Instance1.Name%,"Altitude",0x00000000,%Instance1.Altitude%
+HKR,"Instances\"%Instance1.Name%,"Flags",0x00010001,%Instance1.Flags%
+
+[MiniFilter.DriverFiles]
+%DriverName%.sys
+
+[Strings]
+MW                      = "MythWare Corporation"
+ServiceDescription      = "FilterDriver for Windows 2K/XP/VISTA/7"
+ServiceName             = "TDFileFilter"
+DriverName              = "TDFileFilter"
+
+DefaultInstance         = "TDFileFilter Instance"
+Instance1.Name          = "TDFileFilter Instance"
+Instance1.Altitude      = "370033"
+Instance1.Flags         = 0x0              ; Allow all attachments
+
