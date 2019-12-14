@@ -1,0 +1,36 @@
+===============[START]===================
+LogLevel=3
+error in SetCfgFile::[05-07-2019 11:27:26]  IMConfig file = >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Config\InstallManager.cfg<
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[05-07-2019 11:27:26] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[05-07-2019 11:27:26] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIMCore::[05-07-2019 11:27:26] SetErrorHandler is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:26] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[05-07-2019 11:27:29] GetIIMSettings is done.
+
