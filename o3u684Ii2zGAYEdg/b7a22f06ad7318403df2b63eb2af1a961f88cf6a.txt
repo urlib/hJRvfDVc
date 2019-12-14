@@ -1,0 +1,19 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 CE2F-63AD
+
+ C:\Users\Administrator\Desktop\WorkSpace\lg 的目录
+
+[.]                      a.cpp                    random_generator.s
+[..]                     a.exe                    random_generator.zip
+0.txt                    cap-mo.txt               rg.exe
+1.txt                    captain-mo.cpp           settings.json
+1494.cpp                 c_cpp_properties.json    tasklist.rar
+1903.cpp                 Default.rdp              tempCodeRunnerFile.cpp
+1903.exe                 download_nsfw_urls.py    tempCodeRunnerFile.zip
+2574.cpp                 hosts                    update.cmd
+3203-pai.cpp             lg-2.url                 url.txt
+3203.cpp                 lg.url                   wcgf.py
+3870.cpp                 lg.zip                   wget.exe
+3870.txt                 random_generator.cpp     
+              33 个文件     12,241,014 字节
+               2 个目录 116,781,498,368 可用字节
