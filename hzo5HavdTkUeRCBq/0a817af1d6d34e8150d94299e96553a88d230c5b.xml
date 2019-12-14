@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<configurate version="1.0">
+  <modules>
+    <module name="RemoteSetting">
+      <section name="Resolution">
+        <key name="1400x1050" type="1" value="1400x1050" />
+        <key name="1152x846" type="1" value="1152x846" />
+      </section>
+    </module>
+  </modules>
+</configurate>
