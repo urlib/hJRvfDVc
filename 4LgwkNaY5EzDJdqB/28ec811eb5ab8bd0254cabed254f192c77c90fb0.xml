@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<KeyDefinitions   modifierType="Normal" payloadType="ScanCode" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation=".\..\KeyDefinitionSchema.xsd">
+  <State modifier="Any">
+    <Key  Id="10108" payloadType="Unicode" primary="=" />
+    <Key  Id="10400" payloadType="Unicode" primary = "0" />
+    <Key  Id="10401" payloadType="Unicode" primary = "1" />
+    <Key  Id="10402" payloadType="Unicode" primary = "2" />
+    <Key  Id="10403" payloadType="Unicode" primary = "3" />
+    <Key  Id="10404" payloadType="Unicode" primary = "4" />
+    <Key  Id="10405" payloadType="Unicode" primary = "5" />
+    <Key  Id="10406" payloadType="Unicode" primary = "6" />
+    <Key  Id="10407" payloadType="Unicode" primary = "7" />
+    <Key  Id="10408" payloadType="Unicode" primary = "8" />
+    <Key  Id="10409" payloadType="Unicode" primary = "9" />
+    <Key  Id="10410" payloadType="Unicode" primary = "/" />
+    <Key  Id="10411" payloadType="Unicode" primary = "*" />
+    <Key  Id="10412" payloadType="Unicode" primary = "-" />
+    <Key  Id="10413" payloadType="Unicode" primary = "+" />
+    <Key  Id="10414" payloadType="Unicode" />
+  </State>
+</KeyDefinitions>
