@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ace version="2">
+  <component name="Dashboard" company="ATI.ACE"  multiInstance="false">
+    <location file="CLI.Component.Dashboard" ext="dll">
+    </location>
+  </component>
+</ace>
