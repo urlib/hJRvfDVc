@@ -1,0 +1,44 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GPU">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PPW">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute type="xs:byte" name="Value" use="required"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="FEATURE" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="STATES">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="STATE" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:byte" name="ID" use="required"/>
+                            <xs:attribute type="xs:string" name="Enabled" use="required"/>
+                            <xs:attribute type="xs:short" name="Value" use="required"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:byte" name="ID" use="required"/>
+            <xs:attribute type="xs:string" name="Enabled" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="DevID" use="required"/>
+      <xs:attribute type="xs:string" name="RevID" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
