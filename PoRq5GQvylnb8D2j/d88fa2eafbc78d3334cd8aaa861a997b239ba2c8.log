@@ -1,0 +1,392 @@
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+05:148:009] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:936:002] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:031:200] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:889:201] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:889:201] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:031:200] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:858:001] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:858:002] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:031:200] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:967:201] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:031:200] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+01:903:203] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:031:200] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+00:858:002] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+01:965:604] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:800] [Conn_Num_Display]	 1
+^
+[+02:215:204] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+*** Log File Version: 2.0 ***
+[+00:000:000] [Conn_Detect_DP_RX]	[EDP-1] RX Caps (0x000000): 11 0A 82 41 00 00 01 80 02 00 00 00 0F 03 00 00 
+^
+[+00:015:600] [Conn_Hotplug]	[EDP-1] - Connected
+^
+[+00:000:000] [Conn_Detect]	[EDP-1] LEN-A5000: [EDID Block 0] 
+
+00 FF FF FF FF FF FF 00 30 AE 00 50 01 00 00 00 
+0C 1A 01 04 A5 2B 18 78 0B 2C C5 A4 56 50 A1 28 
+0F 50 54 00 00 00 01 01 01 01 01 01 01 01 01 01 
+01 01 01 01 01 01 C8 2D 40 00 62 84 1A 30 FA 0C 
+C2 00 B0 EF 10 00 00 1E 00 00 00 10 00 0A 20 20 
+20 20 20 20 20 20 20 20 20 20 00 00 00 FD 00 39 
+3E 1E 5A 14 35 00 55 50 21 00 00 1A 00 00 00 FC 
+00 4C 45 4E 2D 41 35 30 30 30 0A 20 20 20 00 59 
+^
+[+00:000:000] [Conn_PHY_SIZE]	[EDP-1]  [X Dim:430mm, Y Dim:240mm]
+^
+[+00:000:000] [Conn_native_mode]	[EDP-1] {1600x900@60Hz}
+^
+[+00:000:000] [Conn_Disp_Year]	[EDP-1] - [2016]
+^
+[+00:000:000] [Conn_Disp_Color_Depth]	[EDP-1] - 666 888
+^
+[+00:000:000] [Conn_ABM_support]	 - ABM:1
+^
+[+00:000:000] [Conn_PSR_Support]	[EDP-1] - PSR:0
+^
+[+00:514:801] [Conn_Num_Display]	 1
+^
+[+02:215:204] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+[+51:002:072] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+[+12:076:815] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+[+18:855:218] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
+[+00:265:201] [Conn_Mode]	[EDP-1] {1600x900, 1600x900@60:1, 2112x926@117200Khz}
+^
