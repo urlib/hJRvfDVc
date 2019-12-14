@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package name="Core-Static">
+  <Include file="CLI.Combined.Graphics.Aspects1.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Combined.Graphics.Aspects2.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Combined.HydraVision.Aspects.Runtime" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="ADL.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Actions.CCAA.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Source.EEU.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Source.GD.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.DPPE.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Source.GD.Server" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.GD.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.REG.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Source.EEU.Server" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.EEU.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Hotkeys.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.WinMessages.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Services.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Plugin.Source.Kit.Server" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Server" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.Server.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.UI.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="AEM.UI" extension="DLL" nGen="True" GAC="False" />
+  <Include file="APM.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="APM.Server" extension="DLL" nGen="True" GAC="False" />
+  <Include file="ATICCCom" extension="DLL" nGen="False" GAC="False" />
+  <Include file="ATICCCom" extension="TLB" nGen="False" GAC="False" />
+
+  <Include file="CCC.Implementation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Implementation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="MOM.Implementation" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Aspect.AMDHome.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.AMDHome.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceDFP.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.CrossFireX.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.CrossDisplay.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.CustomFormatSelection.Graphics.Dashboard.Shared.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.CustomFormats.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceCRT.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceDFP.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceLCD.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceProperty.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceProperty.Graphics.Dashboard.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeviceProperty.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DisplaysColour2.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.HotkeysHandling.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.InfoCentre.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False"/>
+  <Include file="CLI.Aspect.MMVideo.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MMVideo.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MultiVPU2.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MultiVPU2.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MultiVPU4.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MultiVPU4.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.OverDrive5.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.OverDrive5.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerPlayDPPE.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerPlayDPPE.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerPlayDPPE.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerXpress.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerXpress.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.PowerXpress.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.Radeon3D.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.Radeon3D.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.TutorialInfoCentre.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.TransCode.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.TransCode.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.TransCode.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.WorkstationConfig2.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.WorkstationConfig2.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.WorkstationConfig2.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FramelockGenlock.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FramelockGenlock.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FramelockGenlock.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.ECC.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.ECC.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.ECC.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FPS.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FPS.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.FPS.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.SDI.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.SDI.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.SDI.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.UpdateNotification.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.UpdateNotification.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.UpdateNotification.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Aspect.Settings.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.Grid.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DeskMan.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MDProp.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.MultiDesk.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.DisplaysOptions.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Aspect.A4.A4.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.A4.A4.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Aspect.A4.A4.Shared" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Caste.Graphics.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.Graphics.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.Graphics.Runtime.Shared.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.Graphics.Dashboard.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.Graphics.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.HydraVision.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.HydraVision.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.HydraVision.Shared" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Caste.A4.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.A4.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Caste.A4.Shared" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Component.Client.Shared.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Client.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Dashboard.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Dashboard" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Dashboard.HotKeyManager" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Dashboard.ProfileManager2" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Dashboard.Shared.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Eeu" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Erecord" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Help" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Icomponent" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Load" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Launchpad" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Runtime.Shared" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Runtime" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Runtime.Shared.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Runtime.Extension.EEU" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.Systemtray" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Component.StartNow" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CLI.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Foundation.Client" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Foundation.XManifest" extension="DLL" nGen="True" GAC="False" />
+  <Include file="CLI.Foundation.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="LOG.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="LOG.Foundation.Implementation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="LOG.Foundation.Implementation.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="LOG.Foundation.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="LOCALIZATION.Foundation.Private" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="MOM.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="A4.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="NEWAEM.Foundation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="PCKGHLP.Foundation.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="PCKGHLP.Foundation.Implementation" extension="DLL" nGen="True" GAC="False" />
+  <Include file="ResourceManagement.Foundation.Private" extension="DLL" nGen="True" GAC="False" />
+  <Include file="ResourceManagement.Foundation.Implementation" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="DEM.Graphics" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0601" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0702" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0703" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0706" extension="DLL" nGen="True" GAC="False" />
+
+
+  <Include file="DEM.Graphics.I0709" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0710" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0712" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0804" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0805" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0812" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0901" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0906" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I0912" extension="DLL" nGen="True" GAC="False" />
+  <Include file="DEM.Graphics.I1010" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="CCC" extension="EXE" nGen="True" GAC="False" />
+  <Include file="MOM" extension="EXE" nGen="True" GAC="False" />
+  <Include file="CLI" extension="EXE" nGen="True" GAC="False" />
+  <Include file="LOG" extension="EXE" nGen="True" GAC="False" />
+
+  <Include file="Interop.IWshRuntimeLibrary" extension="DLL" nGen="True" GAC="False" />
+  <Include file="ICSharpCode.SharpZipLib" extension="DLL" nGen="True" GAC="False" />
+  <Include file="Microsoft.Expression.Interactions" extension="DLL" nGen="True" GAC="False" />
+  <Include file="System.Windows.Interactivity" extension="DLL" nGen="True" GAC="False" />
+
+  <Include file="msvcm80" extension="DLL" nGen="False" GAC="False" />
+  <Include file="msvcp100" extension="DLL" nGen="False" GAC="False" />
+  <Include file="msvcr100" extension="DLL" nGen="False" GAC="False" />
+</Package>
