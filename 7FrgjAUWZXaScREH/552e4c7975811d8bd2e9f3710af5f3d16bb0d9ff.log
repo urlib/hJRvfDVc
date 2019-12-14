@@ -1,0 +1,1397 @@
+===============[START]===================
+LogLevel=3
+error in SetCfgFile::[04-07-2019 10:02:50]  IMConfig file = >C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Config\InstallManager.cfg<
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[04-07-2019 10:02:50] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CLauncher::ParseCommandline::[04-07-2019 10:02:50] Coomand Line is: /IGNORE_UPGRADE.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:02:50] SetErrorHandler is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:50] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:02:53] GetIIMSettings is done.
+
+CInstallMgr::downloaderthread::[04-07-2019 10:03:00] Finalyzing Download -bAllDone: 1 bNoRespone: 1 nDownloadedSize: -1 nDownloadingSize: 100225 nTotalDrvBytes: 100225 nStartDwnldbytes: 100225
+CInstallMgr::downloaderthread::[04-07-2019 10:03:00] Finalyzing Download - WaitForSingleObject - DOWNLOADCOMPLETED
+CLauncher::Initialize::[04-07-2019 10:03:00] Customer Support JSON file is downloaded
+CLauncher::IsAnalyticsEnabled::[04-07-2019 10:03:00] Analytics is ON
+
+CLauncher::RemoverelauncherTask::[04-07-2019 10:03:00] Removed Clean install Scheduler.
+
+CQtInstallerFacade::Initialize::[04-07-2019 10:03:00] Initializing things...
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:03:00] GetIIMSettings is done.
+
+LanguageManager::[04-07-2019 10:03:01] SetInitialLaunchOrder()- startup language is now checking under USER_UI
+LanguageManager::[04-07-2019 10:03:01] LoadLanguage() found 2052
+LanguageManager::[04-07-2019 10:03:01] SetInitialLaunchOrder()- startup language detected to be 2052 from USER_UI, will now set this language
+LanguageManager::[04-07-2019 10:03:01] SetLanguage()- current language changed to 2052, notification sent
+LanguageManager::[04-07-2019 10:03:01] LanguageManager Created
+CBranding::LoadResources::[04-07-2019 10:03:01] Resource(branding.rcc) loading failed.
+CBranding::LoadCustomBrandingJSONFile::[04-07-2019 10:03:01] Custom json file not found.
+CPackageSelection::checkforCWGEligibility::[04-07-2019 10:03:01] Failed OS check and OS found is Windows7.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:03:01] GetIIMSettings is done.
+
+CInstallMgr::Pre_Install::[000000000371F6C0] BuildVersion from cfg file is 1 
+
+CInstallMgr::OnStart::[04-07-2019 10:03:10] DETECT_MAIN
+Pre_Detection Phase::[04-07-2019 10:03:10] Pre Detection start
+Pre_Detection Phase::[04-07-2019 10:03:10] Detect Installed Packages
+Pre_Detection Phase::[04-07-2019 10:03:10] Start Detecting system HW & SW information
+DCM::[04-07-2019 10:03:10] OS details : <Windows 7 Ultimate 64bit  Version 6.1 Build 7601 Service Pack 1.0>
+CATIHardware::Detect::[000000000D5EF8D0] starting 
+
+CDCMPCIDriver::[000000000D5EE5E0] LoadDriver starting...
+CDCMPCIDriver::[000000000D5EE5E0] Loaded Detection Driver successfully
+CDCMPciDetector::[000000000D5EF6A0]  Scanning devices starts...
+CDCMPciBaseDetector::[000000000D5EE810] ScanAllPciDevices starting...
+CDCMPciBaseDetector::ScanAllPciDevices::[04-07-2019 10:03:15] umber of cards are less than two
+CDCMPciBaseDetector::[000000000D5EE810]  IsFromNetworkPath() is :0  bPXSupported is : 0 
+CDCMPciBaseDetector::[000000000D5EE810]  IF: IsFromNetworkPath() is :0  bPXSupported is : 0 
+CDCMPciDetector::[000000000D5EF6A0]  Scanning devices finished. The scanning process toke 0 milliseconds...
+CDCMPciDetector::[000000000D5EF6A0]  Analyzing scanned information ...
+CDCMPciDetector::[000000000D5EF6A0]   Unloading Driver......
+CDCMPciDetector::[000000000D5EF6A0]  UnloadDriver...
+DCM::[04-07-2019 10:03:31] Begin looping through all devices <34>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x9840>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <CARRIZO 9874>; DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+GetATIHardware::[04-07-2019 10:03:31] card is ATI
+
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1578>; SSID: <0x1578>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157a>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1570>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1571>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1572>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1573>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1574>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1575>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1576>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x1577>; SSID: <0x1577>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157b>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157b>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157c>; SSID: <0x1234>; VID: <0x1022>; SSVID: <0x1022>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x157d>; SSID: <0x0000>; VID: <0x1022>; SSVID: <0x0000>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x7901>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:03:31] ATI Hardware -> MarketingName: <>; DID: <0x790b>; SSID: <0x30fe>; VID: <0x1022>; SSVID: <0x17aa>
+DCM::[04-07-2019 10:03:31] Done looping through all devices <34>
+
+GetPrimaryCardNumber::[04-07-2019 10:03:31] PrimaryCard is 0x9874
+
+CATIHardware::IsPXSupported::[04-07-2019 10:03:32] number of graphics cards are less than two
+CATIHardware::IsPXSupported::[04-07-2019 10:03:32] number of graphics cards are less than two
+CGetATIHardware::[04-07-2019 10:03:32] it is not hybrid
+CGetATIHardware::[04-07-2019 10:03:32] it is not NVMeController
+CGetATIHardware::[04-07-2019 10:03:32] it is not IsWWANUSBFilterController
+DCM::GetMinSystemInfo::[04-07-2019 10:03:33] GraphicType is LOG_DIANOSTIC
+RM::SetLocalSpec::[04-07-2019 10:03:33] List of detected drivers passed into RM:
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {4d36e97d-e325-11ce-bfc1-08002be10318}, Date: 9-30-2013, Version: 1.0.3.22
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: NULL_DRIVER
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}, Date: 6-27-2016, Version: 2.22.0.5
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: amdpsp_Device_20
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {4d36e96a-e325-11ce-bfc1-08002be10318}, Date: 3-29-2015, Version: 1.2.1.402
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: amd_sata_inst
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {4d36e97d-e325-11ce-bfc1-08002be10318}, Date: 1-18-2015, Version: 5.12.0.31
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDSMBus64
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDHUB30
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {36fc9e60-c465-11cf-8056-444553540000}, Date: 6-1-2015, Version: 1.1.0.185
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AMDXHC
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AmdPPM_Inst
+
+RM::SetLocalSpec::[04-07-2019 10:03:33] ClassGUID: {50127dc3-0f36-415e-a6cc-4cb3be910b65}, Date: 6-21-2006, Version: 6.1.7600.16385
+RM::SetLocalSpec::[04-07-2019 10:03:33] INFSection: AmdPPM_Inst
+
+CInstallMgr::pre_install_fullbuild::[000000000371EFF0] Internet connection is available and checking for latest available drivers.
+
+DownloadXML ::[04-07-2019 10:04:23] Successfully downlaoded result.xml file
+CInstallMgr::GetPrimaryandOSdetails::[04-07-2019 10:04:24] 4 Primary Card is -> <9874>
+CInstallMgr::pre_install_fullbuild::[000000000371EFF0] Didn't find any Installed Version.
+
+BuildDetails::LogDetails::[000000000371EF40] WHQL Build details are : 				 		 szBuildName: Recommended Driver 
+				 		 szInternalVersion: 19.10.15.05-190522a 
+				 		 ExternalVersion: 19.5.2 
+				 		 szBuildpath: https://www2.ati.com/drivers/installer/19.10/whql/radeon-software-adrenalin-2019-19.5.2-minimalsetup-190531_64bit.exe 
+				 		 manifestXMLpath: https://www2.ati.com/drivers/installer/19.10/whql/cimmanifest.exe 
+				 		 szReleaseVersion : 19.5.2 
+				 		 szReleaseVersion : w$ 
+
+BuildDetails::LogDetails::[000000000371EF40] Beta Build details are : 						 szBuildName: Optional Driver 
+						 szInternalVersion: 19.20.01.11-190626a1 
+						 ExternalVersion: 19.6.3 
+						 szBuildpath: https://www2.ati.com/drivers/installer/19.20/beta/radeon-software-adrenalin-2019-19.6.3-minimalsetup-190627_64bit.exe 
+						 manifestXMLpath: https://www2.ati.com/drivers/installer/19.20/beta/cimmanifest.exe 
+						 szReleaseVersion : 19.6.3 
+						 szReleaseVersion : 0x} 
+
+BuildDetails::LogDetails::[000000000371D520] Beta Build details are : 						 szBuildName: Local Driver 
+						 szInternalVersion: 18.50.03.05-181217a-337289E-RadeonSoftwareAdrenalin2019 
+						 ExternalVersion: 18.12.3 
+						 szBuildpath:  
+						 manifestXMLpath:  
+						 szReleaseVersion : 18.12.3 
+						 szReleaseVersion : Ðt} 
+
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VulkanRT64\VulkanRT\VulkanRT.exe> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Package Path and InstallFile (assigning source)-> <C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi> 
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <C:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Source assigned -> FOLDER
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <D:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Harddisk Drives -> <F:\>
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Done going thru all packages for assigning sources
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Begin assigning LocalPackageList to m_PackageMediaInfoList
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Done assigning LocalPackageList to m_PackageMediaInfoList
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Begin checking IsDLMAvailable and IsInstallFromWeb...
+Risk Mitigation(IM)::[04-07-2019 10:04:24] Download Manager not loaded via commandline input or configure settings
+Risk Mitigation(IM)::[04-07-2019 10:04:24] About to start Risk Mitigation
+RM::SetPackageLevel::[04-07-2019 10:04:24] PackageLevel is 0.
+Risk Mitigation(IM)::[000000000371D5D0] Start: Risk Mitigation.
+Risk Mitigation(IM)::[000000000371D5D0] Setting media list to RM...
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VulkanRT64\VulkanRT\VulkanRT.exe
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VulkanRT64\VulkanRT\VulkanRT.exe
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package VulkanRT for HW/SW dependencies, install file is VulkanRT\VulkanRT.exe:
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <VulkanRT>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <VulkanRT>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD Radeon Control Center for HW/SW dependencies, install file is ccc-slim.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform PassPlatformDep include list...
+Risk Mitigation::[04-07-2019 10:04:24] Platform <AMD_Platform_include> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform excluded list...
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 8 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD Radeon Control Center>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD Radeon Control Center>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+RM::ConstructSubPkgLists::[04-07-2019 10:04:24] This package failed to find a parent.
+RM::ConstructSubPkgLists::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD 显示驱动程序 for HW/SW dependencies, install file is C7337289.MSI:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD 显示驱动程序>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD 显示驱动程序>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package HDMI 音频驱动程序 for HW/SW dependencies, install file is AtihdW76.MSI:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ENUM included list...
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ENUM included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ENUM excluded list...
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ENUM excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <HDMI 音频驱动程序>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <HDMI 音频驱动程序>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD Settings Branding for HW/SW dependencies, install file is CNBranding64.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 3 Version: 10.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD Settings Branding>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD Settings Branding>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD 问题报告向导 for HW/SW dependencies, install file is AMDPRW.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 11 Version: 6.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD 问题报告向导>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD 问题报告向导>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package ACP Application for HW/SW dependencies, install file is ACP64.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <ACP Application>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <ACP Application>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package Microsoft .NET Framework 4.5 for HW/SW dependencies, install file is dotnet45\dotnetfx45_Full_x86_x64.exe:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 10 Version: 6.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 11 Version: 6.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 18 Version: 6.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 19 Version: 6.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 8 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <Microsoft .NET Framework 4.5>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <Microsoft .NET Framework 4.5>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD User Experience Program for HW/SW dependencies, install file is AMDUEP64.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD User Experience Program>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD User Experience Program>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package Microsoft Visual C++ 2017 Redistributable (x64) for HW/SW dependencies, install file is vcredist_x64\VC_redist.x64.exe:
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 3 Version: 10.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <Microsoft Visual C++ 2017 Redistributable (x64)>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <Microsoft Visual C++ 2017 Redistributable (x64)>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD DVR for HW/SW dependencies, install file is amddvr64.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform PassPlatformDep include list...
+Risk Mitigation::[04-07-2019 10:04:24] Platform <AMD_Platform_include> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform excluded list...
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 3 Version: 10.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD DVR>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD DVR>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+
+RM::NoPackagingError::[04-07-2019 10:04:24] Checking this package for packaging errors:
+
+RM::NoPackagingError::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi
+RM::NoPackagingError::[04-07-2019 10:04:24] PASSED: No packaging error.
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package for HW/SW dependencies:
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Checking this package AMD Radeon Settings for HW/SW dependencies, install file is ccc-next64.msi:
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC included list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] ASIC <0x9874> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking ASIC excluded list...
+RM::ListHWInfoContains::[04-07-2019 10:04:24] Searching for -> DID: <0x9874>; SSID: <0x30fe>; VID: <0x1002>; SSVID: <0x17aa>
+Risk Mitigation::[04-07-2019 10:04:24] Device ID <0x9874> not found on this list
+Risk Mitigation::[04-07-2019 10:04:24] Done checking ASIC excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform PassPlatformDep include list...
+Risk Mitigation::[04-07-2019 10:04:24] Platform <AMD_Platform_include> found on included list.
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform included list
+Risk Mitigation::[04-07-2019 10:04:24] Begin checking Platform excluded list...
+Risk Mitigation::[04-07-2019 10:04:24] Done checking Platform excluded list
+Risk Mitigation::[04-07-2019 10:04:24] Local OS -> <Type: 9 Version: 6.1.7601.1.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 3 Version: 10.0.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] Package OS -> <Type: 9 Version: 6.1.0.0.0>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: OS Dependency passed for <AMD Radeon Settings>.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: ChkHwInfo Dependency passed for <AMD Radeon Settings>. 
+
+RM::PassAllHWSWDep::[04-07-2019 10:04:24] Pass all HW/SW dependency checks.
+
+Risk Mitigation(IM)::[000000000371D5D0] Done setting media list to RM
+Risk Mitigation(IM)::[000000000371D5D0] Setting installed list to RM...
+Risk Mitigation(IM)::[000000000371D5D0] Done installed list to RM
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-00-0000-000-006-029-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-05-0U01-000-002-115-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-039-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0U03-000-006-022-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U00-000-002-227-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U01-000-002-184-000-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-10-0U01-000-002-192-001-00-25> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-10-0U01-000-002-192-001-00-25> to <W-10-0U01-000-002-192-001-00-25>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-10-0U01-000-002-192-001-00-25>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-10-0U01-000-002-192-001-00-25>, found to match PID <W-10-0U01-000-002-192-001-00-25>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U01-000-002-192-001-00-25> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U01-000-002-218-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U01-000-002-192-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Checking this package for runtime dependecies...
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  Checking this package for package dependecies...
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U03-000-002-194-001-00-25> no conflicts with installed packages.
+
+RM::EliminateByPkgDep::[04-07-2019 10:04:24] Passed.  This package stays in RM.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-00-0000-000-006-029-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-05-0U01-000-002-115-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found and enabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-039-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0U03-000-006-022-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U00-000-002-227-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found and enabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U01-000-002-184-000-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-10-0U01-000-002-192-001-00-25> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-10-0U01-000-002-192-001-00-25> to <W-10-0U01-000-002-192-001-00-25>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-10-0U01-000-002-192-001-00-25>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-10-0U01-000-002-192-001-00-25>, found to match PID <W-10-0U01-000-002-192-001-00-25>, but packaged is disabled
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U01-000-002-192-001-00-25> found but disabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-1U01-000-002-218-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found and enabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U01-000-002-192-001-00-25> no conflicts with installed packages.
+
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] Checking this package for package dependecies...
+RM::SelectDefaultPackages::[04-07-2019 10:04:24] C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi
+Risk Mitigation::[04-07-2019 10:04:24] Checking incl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] Matching dependency PID <W-06-0001-000-001-001-001-00-00> to available packages...
+Risk Mitigation::[04-07-2019 10:04:24] Matched dependency PID <W-06-0001-000-001-001-001-00-00> to <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] CheckVer is not required for PID <W-06-0001-000-001-001-001-00-00>.  FindPkgByStatus
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: At least one package, PID <W-06-0001-000-001-001-001-00-00>, found to match PID <W-06-0001-000-001-001-001-00-00>
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-06-0001-000-001-001-001-00-00> found and enabled.
+
+Risk Mitigation::[04-07-2019 10:04:24] Checking excl_PID...
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Empty list.
+Risk Mitigation::[04-07-2019 10:04:24] PASSED: Package(s) with PID <W-10-0U03-000-002-194-001-00-25> no conflicts with installed packages.
+
+RM::GetUIPackageList=======Below are the packages eligible for installation/uninstallation=======
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD 问题报告向导>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-05-0U01-000-002-115-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD 显示驱动程序>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Display\W76A_INF\C7337289.MSI>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-0001-000-001-001-001-00-00> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Subpackages: 		
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<VulkanRT>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VulkanRT64\VulkanRT\VulkanRT.exe>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-1U03-000-007-014-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<HDMI 音频驱动程序>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Drivers\Audio\HDMI\W764A\AtihdW76.MSI>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-0001-000-001-039-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD User Experience Program>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-1U00-000-002-227-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<ACP Application>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-1U01-000-002-184-000-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD DVR>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-1U01-000-002-218-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD Radeon Settings>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-10-0U01-000-002-192-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Subpackages: 		
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD Radeon Control Center>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-2U03-000-002-193-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<AMD Settings Branding>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-10-0U03-000-002-194-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<Microsoft Visual C++ 2017 Redistributable (x64)>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-00-0000-000-006-029-001-00-25> 
+
+RM::GetUIPackageList::[04-07-2019 10:04:24] Product Name ->	<Microsoft .NET Framework 4.5>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	Location ->	<C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe>
+RM::GetUIPackageList::[04-07-2019 10:04:24] 	ATI_PID ->	<W-06-0U03-000-006-022-001-00-25> 
+
+CInstallMgr::OnEnd::[04-07-2019 10:04:24] DETECT_MAIN
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:04:24] SetErrorHandler is done.
+
+CInstallMgr::downloaderthread::[04-07-2019 10:04:31] Finalyzing Download -bAllDone: 1 bNoRespone: 1 nDownloadedSize: -1 nDownloadingSize: 100225 nTotalDrvBytes: 100225 nStartDwnldbytes: 100225
+CInstallMgr::downloaderthread::[04-07-2019 10:04:31] Finalyzing Download - WaitForSingleObject - DOWNLOADCOMPLETED
+DriverUpdateModel::OnEvent::[04-07-2019 10:04:31] Customer Support JSON file is downloaded
+CLauncher::IsAnalyticsEnabled::[04-07-2019 10:04:31] Analytics is ON
+
+CInstallMgr::IsFalconHardware::[04-07-2019 10:04:31] In IsFalconHardware
+CInstallMgr::IsFalconHardware::[04-07-2019 10:04:31] Found ATI card  0x9874
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:04:31] Checking for supported Aspects.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:04:31] Failed to load the ADl library.
+
+DriverUpdateModel::CheckForCleanInstallRecommendation::[04-07-2019 10:04:31] Build Version , Installed Version 
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:04:31] GetIIMSettings is done.
+
+DriverUpdateModel::CheckForCleanInstallRecommendation::[04-07-2019 10:04:31] Build Version , Installed Version 
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:04:31] GetIIMSettings is done.
+
+DriverUpdateModel::CheckForCleanInstallRecommendation::[04-07-2019 10:04:31] Build Version , Installed Version 
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:04:31] SetErrorHandler is done.
+
+chipset::[04-07-2019 10:04:31] found eligible package C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64
+
+Configurations::SendDataToServer::[04-07-2019 10:04:31] Analytics sent successfully for /r/collect?v=1&_v=j33&aip=0&a=153463489&t=event&ni=1&_s=1&dl=http%3A%2F%2Finstaller%2F&ul=zh_CN&de=UTF-8&dt=driver-installer&ec=application&ea=launch&el=driver-installer&tid=UA-55985825-1&cd1=http%3A%2F%2Finstaller%2F&cd3=driverinstaller&cd17=(not%20set)&cd24=child&cd35=(not%20set)&cd37=9874%7C%7C%7C&cd38=1002%7C%7C%7C&cd42=AMD%20PRO%20A10-8770%20R7%2C%2010%20COMPUTE%20CORES%204C%2B6G&cd43=Windows7&cd44=64&cd45=zh_CN&cd46=(not%20set)&cd47=(not%20set)&cd48=zh_CN&cm1=(not%20se
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:04:31] GetIIMSettings is done.
+
+CQtInstallerFacade::SetInstallTarget::[04-07-2019 10:04:31] SetData with target C:\Program Files\AMD.
+
+CQtInstallerFacade::GetIIMSettings::[04-07-2019 10:04:31] GetIIMSettings is done.
+
+Configurations::IntializeHoloCubeCache::[04-07-2019 10:04:31] HoloCube is not connected or not avalable
+Configurations::IntializeHoloCubeCache::[04-07-2019 10:04:31] HoloCube is not connected or not avalable
+
+CInstallMgr::DoPPCInstall
+=======Copying PPC Package Installation=======
+
+PMJobExecuter::Install::[04-07-2019 10:04:32] strDestPath is C:\Program Files\AMD\CIM\BIN64\AMDUEP64.msi
+PMJobExecuter::Install::[04-07-2019 10:04:32] Copied C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\AUEP64\AMDUEP64.msi to C:\Program Files\AMD\CIM\BIN64\AMDUEP64.msi
+CInstallMgr::DoDVRInstall::[04-07-2019 10:04:32] Created SOFTWARE\AMDDVR everyone registry key for DVR.
+
+CInstallMgr::OnStart::[04-07-2019 10:04:32] INSTALL_MAIN
+PMJobExecuter::Install
+=======Start installing packages=======
+CInstallMgr::OnStart::[04-07-2019 10:04:32] INSTALL_MAIN
+PMJobExecuter::TerminateCNextApp::[04-07-2019 10:04:33] Terminate CNextApp action is done
+
+PMJobExecuter::TerminateCNextApp::[04-07-2019 10:04:33] Terminate CNextApp action is done
+
+PMJobExecuter::ShutDownCCC::[04-07-2019 10:04:33] starting to shutdown CCC 
+
+PMJobExecuter::executer::[04-07-2019 10:04:33] 
+: execute package: Microsoft .NET Framework 4.5 : productcode: {0B552A55-5B29-477C-86E2-6B1BBBA4DC41} 
+PMJobExecuter::executer::[04-07-2019 10:04:33]  Check if older version of this Microsoft .NET Framework 4.5 package installed 
+
+PMJobExecuter::executer======= Starting installation of Microsoft .NET Framework 4.5 =======
+
+PMJobExecuter::executer======= Initiating major application Installation of Microsoft .NET Framework 4.5 =======
+
+PackageManager::[04-07-2019 10:04:33] ExeInstaller::executeProc initiating installation of C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\DotNet45\dotnet45\dotnetfx45_Full_x86_x64.exe.
+PackageManager::[04-07-2019 10:08:18] ExeInstaller::executeProc exit code of process returned 0.
+PMJobExecuter::executer======= Microsoft .NET Framework 4.5 installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:08:18]  : reutrn value: 1  
+PMJobExecuter::Install::[04-07-2019 10:08:18] 
+Found EXEC_CMD package. Not adding to registry Install section
+CInstallMgr::OnEnd::[04-07-2019 10:08:18] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:08:18]  : reutrn value: 1  
+CInstallMgr::OnEnd::[04-07-2019 10:08:18] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:08:18] 
+: execute package: Microsoft Visual C++ 2017 Redistributable (x64) : productcode:  
+PMJobExecuter::executer::[04-07-2019 10:08:18]  Check if older version of this Microsoft Visual C++ 2017 Redistributable (x64) package installed 
+
+PMJobExecuter::executer======= Starting installation of Microsoft Visual C++ 2017 Redistributable (x64) =======
+
+PMJobExecuter::executer======= Initiating major application Installation of Microsoft Visual C++ 2017 Redistributable (x64) =======
+
+PackageManager::[04-07-2019 10:08:18] ExeInstaller::executeProc initiating installation of C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VC17RTx64\vcredist_x64\VC_redist.x64.exe.
+PackageManager::[04-07-2019 10:08:57] ExeInstaller::executeProc exit code of process returned 3010.
+PMJobExecuter::executer======= Microsoft Visual C++ 2017 Redistributable (x64) installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:08:57]  : reutrn value: 1  
+PMJobExecuter::Install::[04-07-2019 10:08:57] 
+Found EXEC_CMD package. Not adding to registry Install section
+CInstallMgr::OnEnd::[04-07-2019 10:08:57] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:08:57]  : reutrn value: 1  
+CInstallMgr::OnEnd::[04-07-2019 10:08:57] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:08:57] 
+: execute package: AMD 显示驱动程序 : productcode: {F04802AD-7489-46C4-83E5-BF2DB6070EC6} 
+PMJobExecuter::executer::[04-07-2019 10:08:57]  Check if older version of this AMD 显示驱动程序 package installed 
+
+PMJobExecuter::executer ======= Starting installation of: AMD 显示驱动程序 =======
+
+WrapDIFx::[04-07-2019 10:08:57] Turn ON DGPU fail
+PMJobExecuter::executer::[04-07-2019 10:08:57]  Install Sub-Packages first for AMD 显示驱动程序 
+
+PackageManager::[04-07-2019 10:08:57] ExeInstaller::executeProc initiating installation of C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\VulkanRT64\VulkanRT\VulkanRT.exe.
+PackageManager::[04-07-2019 10:08:58] ExeInstaller::executeProc exit code of process returned 0.
+PMJobExecuter::executer::[04-07-2019 10:08:58]  : Subpakcage installed: 		VulkanRT 
+ 
+[ERROR] - ERROR_DRIVER_PACKAGE_NOT_IN_STORE::[0000000003717D90] There does not exist an INF file in the driver store that corresponds to the INF file specified by DriverPackageInfPath.
+WrapDIFx::[04-07-2019 10:12:37] AdapterPowerChangeRequestinPX call is failed
+PMJobExecuter::executer======= AMD 显示驱动程序 installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:12:38] AMD 显示驱动程序 requires reboot 
+
+PMJobExecuter::executer::[04-07-2019 10:12:38] Starting EEU Service
+
+PMJobExecuter::WaitforEeuRebootRequiredEvent::[04-07-2019 10:12:58] eeuRebootRequiredEvent-WAIT_TIMEOUT
+
+PMJobExecuter::executer::[04-07-2019 10:12:58] EEU Service is started
+
+WrapDIFx::[04-07-2019 10:12:58] Turn ON DGPU fail
+PMJobExecuter::executer::[04-07-2019 10:12:58] ACP Service is started
+CInstallMgr::GetPrimaryandOSdetails::[04-07-2019 10:12:59] 4 Primary Card is -> <9874>
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:12:59] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:12:59] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:12:59]  : reutrn value: 1  
+WrapDIFx::[04-07-2019 10:12:59] Turn OFF DGPU fail
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:12:59] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:12:59] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:12:59] 
+: execute package: HDMI 音频驱动程序 : productcode: {B27094DC-D2D8-4173-9975-B71DDFA23384} 
+PMJobExecuter::executer::[04-07-2019 10:12:59]  Check if older version of this HDMI 音频驱动程序 package installed 
+
+PMJobExecuter::executer ======= Starting installation of: HDMI 音频驱动程序 =======
+
+PMJobExecuter::executer::[04-07-2019 10:12:59] Initiating Installation of HDMI 音频驱动程序 
+
+[ERROR] - ERROR_DRIVER_PACKAGE_NOT_IN_STORE::[0000000003717D90] There does not exist an INF file in the driver store that corresponds to the INF file specified by DriverPackageInfPath.
+[ERROR] - DIFxAPI operation::[0000000003717400] Error can not find in LogResult report.
+WrapDIFx::OnDifxError::[04-07-2019 10:18:10] Generic error
+CUiErrorHandler::ErrorNotify::[04-07-2019 10:18:10] errornum: 72, errorStr: Package Manager The installation failed.
+CUiErrorHandler::RaiseFinalErrorStatus::[04-07-2019 10:18:10] m_eFinalStatus: 1 
+
+CUiErrorHandler::ErrorNotify::[04-07-2019 10:18:10] errornum: 24, errorStr: Package Manager package install Failed
+CUiErrorHandler::RaiseFinalErrorStatus::[04-07-2019 10:18:10] m_eFinalStatus: 1 
+
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:10] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:10] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:18:10]  : reutrn value: 0  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:10] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:10] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:18:10] 
+: execute package: AMD Radeon Settings : productcode: {6752BCA3-1B22-BBA3-EC72-D3A0AAC0EA26} 
+PMJobExecuter::executer::[04-07-2019 10:18:10]  Check if older version of this AMD Radeon Settings package installed 
+
+LanguageManager::[04-07-2019 10:18:10] GetDataFromMap could NOT find primary ID 615 in map
+LanguageManager::[04-07-2019 10:18:10] GetDataFromMap could NOT find primary ID 544 in map
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Trying to find language preference file, 2052.mst
+
+, for C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:10] Found Language preference: 2052.mst
+
+ 
+PMJobExecuter::executer======= Starting installation of AMD Radeon Settings =======
+
+PMJobExecuter::executer::[04-07-2019 10:18:10] Uninstall CN64 components if present
+
+PMJobExecuter::executer::[04-07-2019 10:18:10] Install Sub-Packages first 
+MsiInstaller::Install::[04-07-2019 10:18:10] installing: C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi with commandline: REBOOT=ReallySuppress MSIFASTINSTALL=3 INSTALLDIR="C:\Program Files\AMD" 
+ 
+PackageManager::[04-07-2019 10:18:17] Successfully installed the package: C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\CCCSlim\Core-Static-Net4\ccc-slim.msi
+
+PMJobExecuter::executer::[04-07-2019 10:18:17]  : Subpakcage installed: 		AMD Radeon Control Center  
+PMJobExecuter::executer::[04-07-2019 10:18:17]  Initiating installation of AMD Radeon Settings 
+
+MsiInstaller::Install::[04-07-2019 10:18:17] installing: C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi with commandline: REBOOT=ReallySuppress MSIFASTINSTALL=3 INSTALLDIR="C:\Program Files\AMD" LAUNCHED_FROM_CIM="1" TRANSFORMS="C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\2052.mst" 
+ 
+PackageManager::[04-07-2019 10:18:47] Successfully installed the package: C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\cnext\cnext64\ccc-next64.msi
+
+PMJobExecuter::executer======= AMD Radeon Settings installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:18:47]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:47] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:47] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:18:47]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:47] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:47] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:18:47] 
+: execute package: AMD Settings Branding : productcode: {EE2AFCE4-0238-4DE0-A140-1647021627C1} 
+PMJobExecuter::executer::[04-07-2019 10:18:47]  Check if older version of this AMD Settings Branding package installed 
+
+LanguageManager::[04-07-2019 10:18:47] GetDataFromMap could NOT find primary ID 615 in map
+LanguageManager::[04-07-2019 10:18:47] GetDataFromMap could NOT find primary ID 544 in map
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:47] Trying to find language preference file, 2052.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:47] Trying to find language preference file, 1028.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:47] Trying to find language preference file, 1835102823.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:47] Trying to find language preference file, 1818838560.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:47] Trying to find language preference file, 1033.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\ 
+PMJobExecuter::executer======= Starting installation of AMD Settings Branding =======
+
+PMJobExecuter::executer======= Initiating major application Installation of AMD Settings Branding =======
+
+MsiInstaller::Install::[04-07-2019 10:18:47] installing: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi with commandline: REBOOT=ReallySuppress INSTALLDIR="C:\Program Files\AMD\" LAUNCHED_FROM_CIM="1" INSTALLEDBRANDINGTYPE="100" 
+ 
+PackageManager::[04-07-2019 10:18:58] Successfully installed the package: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\CNBranding\CNBranding64.msi
+
+PMJobExecuter::executer======= AMD Settings Branding installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:18:58]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:58] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:58] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:18:58]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:18:58] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:18:58] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:18:58] 
+: execute package: AMD 问题报告向导 : productcode: {B0E26AD5-328D-242A-85BA-0543A37FBB9E} 
+PMJobExecuter::executer::[04-07-2019 10:18:58]  Check if older version of this AMD 问题报告向导 package installed 
+
+LanguageManager::[04-07-2019 10:18:58] GetDataFromMap could NOT find primary ID 615 in map
+LanguageManager::[04-07-2019 10:18:58] GetDataFromMap could NOT find primary ID 544 in map
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Trying to find language preference file, 2052.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Reading Localization String table
+ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:18:58] Found Language preference: 2052.mst
+
+ 
+PMJobExecuter::executer======= Starting installation of AMD 问题报告向导 =======
+
+PMJobExecuter::executer======= Initiating major application Installation of AMD 问题报告向导 =======
+
+MsiInstaller::Install::[04-07-2019 10:18:58] installing: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi with commandline: REBOOT=ReallySuppress MSIFASTINSTALL=3 ARPSYSTEMCOMPONENT=1 INSTALLDIR="C:\Program Files\AMD" LAUNCHED_FROM_CIM="1" TRANSFORMS="C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\2052.mst" 
+ 
+PackageManager::[04-07-2019 10:19:02] Successfully installed the package: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\PRW64\AMDPRW.msi
+
+PMJobExecuter::executer======= AMD 问题报告向导 installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:19:02]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:19:02] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:19:02] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:19:02]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:19:02] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:19:02] INSTALL_DETAIL
+PMJobExecuter::executer::[04-07-2019 10:19:02] 
+: execute package: ACP Application : productcode: {35C330FC-22FC-DF24-88D5-3A77B1F67E04} 
+PMJobExecuter::executer::[04-07-2019 10:19:02]  Check if older version of this ACP Application package installed 
+
+LanguageManager::[04-07-2019 10:19:02] GetDataFromMap could NOT find primary ID 615 in map
+LanguageManager::[04-07-2019 10:19:02] GetDataFromMap could NOT find primary ID 544 in map
+PackageRead::GetISLanguageTransform::[04-07-2019 10:19:02] Trying to find language preference file, 2052.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:19:02] Trying to find language preference file, 1028.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:19:02] Trying to find language preference file, 1835102823.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:19:02] Trying to find language preference file, 1818838560.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ 
+PackageRead::GetISLanguageTransform::[04-07-2019 10:19:02] Trying to find language preference file, 1033.mst
+
+, for C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ 
+PMJobExecuter::executer======= Starting installation of ACP Application =======
+
+PMJobExecuter::executer======= Initiating major application Installation of ACP Application =======
+
+MsiInstaller::Install::[04-07-2019 10:19:02] installing: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi with commandline: REBOOT=ReallySuppress MSIFASTINSTALL=3 ARPSYSTEMCOMPONENT=1 LAUNCHED_FROM_CIM="1" 
+ 
+PackageManager::[04-07-2019 10:19:07] Successfully installed the package: C:\AMD\Win7-64Bit-Radeon-Software-Adrenalin-2019-Edition-18.12.3-Dec19\Packages\Apps\ACP64\ACP64.msi
+
+PMJobExecuter::executer======= ACP Application installed successfully!!! =======
+
+PMJobExecuter::executer::[04-07-2019 10:19:07]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:19:07] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:19:07] INSTALL_DETAIL
+PMJobExecuter::Install::[04-07-2019 10:19:07]  : reutrn value: 1  
+PMJobExecuter::SetRebootMessageType::[04-07-2019 10:19:07] There are 1 components that require a must reboot (no condition)
+CInstallMgr::OnEnd::[04-07-2019 10:19:07] INSTALL_DETAIL
+CWrapPM::OnEnd::[000000000371E180]  More packages eneded than they started with...
+PMJobExecuter::Install::[04-07-2019 10:19:07]  : reutrn value: 1  
+
+CInstallMgr::DoInstall::[04-07-2019 10:19:07] created partially installed registry key-  HDMI 音频驱动程序 package is not installed;
+
+
+CInstallMgr::DoInstall::[04-07-2019 10:19:07] created partially installed registry key-  Microsoft .NET Framework 4.5 package is not installed;
+
+
+CInstallMgr::DoInstall::[04-07-2019 10:19:07] 
+m_bIsDVRpackageEligibletoinstall: 1
+
+LanguageManager::[04-07-2019 10:19:07] TR_Error() did not find DIFX_ERROR_INSTALL_FAILURE error string for Monet product in the CHS language file
+CInstallMgr::OnEnd::[04-07-2019 10:19:07] INSTALL_MAIN
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:07] SetErrorHandler is done.
+
+ProgressModel::OnEvent::[04-07-2019 10:19:07] Custom + Express
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] Checking for supported Aspects.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] Sucessful initialization of ATIADL_InitializeADL_PXPROC.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] Sucessful to initialize of ADL_Main_Memory_Alloc.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] Retrived adapters: 1; Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] pfnATIADL_Adapter_AdapterInfo_Get Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:07] pfnATIADL_Adapter_Aspects_Get Returnvalue: -8.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:07] SetErrorHandler is done.
+
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: FindCurrentDrvDetails function entered
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: Queried build version: Build version is 18.50.03.05-181217a-337289E-RadeonSoftwareAdrenalin2019
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: Queried driver version: Driver version is 25.20.15003.5010
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: Queried INF Path: Build version is oem13.inf
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: Queried DVRInstallEligible value: 1
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:07] 
+: Queried DVRAnalytics value: 1
+PMJobExecuter::Install::[04-07-2019 10:19:07] DVR eligible to install
+ProgressModel::OnEvent::[04-07-2019 10:19:07] Checking if switch install is passed from CN
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Checking for supported Aspects.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Sucessful initialization of ATIADL_InitializeADL_PXPROC.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Sucessful to initialize of ADL_Main_Memory_Alloc.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Retrived adapters: 1; Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] pfnATIADL_Adapter_AdapterInfo_Get Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] pfnATIADL_Adapter_Aspects_Get Returnvalue: -8.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: FindCurrentDrvDetails function entered
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried build version: Build version is 18.50.03.05-181217a-337289E-RadeonSoftwareAdrenalin2019
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried driver version: Driver version is 25.20.15003.5010
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried INF Path: Build version is oem13.inf
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried DVRInstallEligible value: 1
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried DVRAnalytics value: 1
+PMJobExecuter::Install::[04-07-2019 10:19:08] DVR eligible to install
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+
+CInstallMgr::DoDVRInstall
+=======Copying DVR Package Installation=======
+
+PMJobExecuter::Install::[04-07-2019 10:19:08] strDestPath is C:\Program Files\AMD\CNext\CNext\amddvr64.msi
+PMJobExecuter::Install::[04-07-2019 10:19:08] Copied C:\Users\ADMINI~1\AppData\Local\Temp\\AMDRSInstaller\\CN\amddvr\amddvr64\amddvr64.msi to C:\Program Files\AMD\CNext\CNext\amddvr64.msi
+
+CInstallMgr::DoWVRInstall
+=======Copying WVR Package Installation=======
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Checking for supported Aspects.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Sucessful initialization of ATIADL_InitializeADL_PXPROC.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Sucessful to initialize of ADL_Main_Memory_Alloc.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] Retrived adapters: 1; Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] pfnATIADL_Adapter_AdapterInfo_Get Returnvalue: 0.
+
+SupportedRendering::IsSupportedConfig::[04-07-2019 10:19:08] pfnATIADL_Adapter_Aspects_Get Returnvalue: -8.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: FindCurrentDrvDetails function entered
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried build version: Build version is 18.50.03.05-181217a-337289E-RadeonSoftwareAdrenalin2019
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried driver version: Driver version is 25.20.15003.5010
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried INF Path: Build version is oem13.inf
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried DVRInstallEligible value: 1
+CWGDriver::FindCurrentDrvDetails::[04-07-2019 10:19:08] 
+: Queried DVRAnalytics value: 1
+PMJobExecuter::Install::[04-07-2019 10:19:08] DVR eligible to install
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+CFinish::IsRestartRequired::[04-07-2019 10:19:08] Setting POST_INSTALL state success.
+
+CInstallMgr::CreateLinkUpdateSchTask::[04-07-2019 10:19:08] Install ... 
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:08] SetErrorHandler is done.
+
+CInstallMgr::CreateLinkUpdateSchTask::[04-07-2019 10:19:09] Install ... 
+
+LanguageManager::[04-07-2019 10:19:10] TR_Error() did not find DIFX_ERROR_INSTALL_FAILURE error string for Monet product in the CHS language file
+CFinish::IsRestartRequired::[04-07-2019 10:19:10] Reboot is required.
+
+CPackageSelection::checkforCWGEligibility::[04-07-2019 10:19:10] Failed OS check and OS found is Windows7.
+
+CFinish::IsRestartRequired::[04-07-2019 10:19:10] Check opt IN value not set
+
+CQtInstallerFacade::GetIMCore::[04-07-2019 10:19:10] SetErrorHandler is done.
+
+Configurations::SendDataToServer::[04-07-2019 10:19:10] Analytics sent successfully for /r/collect?v=1&_v=j33&aip=0&a=153463489&t=event&ni=1&_s=1&dl=http%3A%2F%2Finstaller%2F&ul=zh_CN&de=UTF-8&dt=driver-installer&ec=application&ea=installed&el=driver-installer&tid=UA-55985825-1&cd1=http%3A%2F%2Finstaller%2F&cd3=driverinstaller&cd17=dd%7C18.50.03.05-181217a-337289E-RadeonSoftwareAdrenalin2019&cd24=child&cd35=(not%20set)&cd37=9874%7C%7C%7C&cd38=1002%7C%7C%7C&cd42=AMD%20PRO%20A10-8770%20R7,%2010%20COMPUTE%20CORES%204C+6G&cd43=Windows7&cd44=64&cd45=zh_CN&cd46=(not%
+CLauncher::RemoveSchedulertask::[04-07-2019 10:19:12] Removed AMD Updater Scheduler.
+
+CFinish::CheckLaunchURLConditions::[04-07-2019 10:19:12] The URL retrieved from config file is https://secure.amd.com/di?
+CFinish::CheckLaunchURLConditions::[04-07-2019 10:19:12] The Dispay Driver is installed
+CUiErrorHandler::GetFinalErrorStatus::[04-07-2019 10:19:12] m_eFinalStatus: 1 
+
+CFinish::CheckLaunchURLConditions::[04-07-2019 10:19:12] The CIM installation is failed
+CFinish::LaunchWebBrowser::[04-07-2019 10:19:12] CheckLaunchURLConditions function returned false, so dont launch URL
+CFinish::checkPackagesStatus::[04-07-2019 10:19:12] All the packages are failed.
+
+CUiErrorHandler::GetFinalErrorStatus::[04-07-2019 10:19:12] m_eFinalStatus: 1 
+
+CFinish::FinalStatus::[04-07-2019 10:19:12] Final status is error or warning.
+
+CUiErrorHandler::ErrorNotify::[04-07-2019 10:19:12] errornum: 1603, errorStr: General error during package installation
+CUiErrorHandler::RaiseFinalErrorStatus::[04-07-2019 10:19:12] m_eFinalStatus: 2 
+
+CUiErrorHandler::GetJSONErrorDetails::[04-07-2019 10:19:12] Error link for 1603 is https://www.amd.com/zh-hans/support/kb/faq/gpu-kb1603 
+
+CUiErrorHandler::GetJSONErrorDetails::[04-07-2019 10:19:12] Error message for 1603 is 错误 1603 – 安装 AMD Software 软件包期间发生常规错误 
+
+CUiErrorHandler::GetJSONErrorDetails::[04-07-2019 10:19:12] Error CTA for 1603 is 单击此处了解更多信息 
+
+CUiErrorHandler::FormErrorURL::[04-07-2019 10:19:12] CLickable link for IM_GENERAL_ERROR_INSTALL error is https://www.amd.com/zh-hans/support/kb/faq/gpu-kb1603?DID=9874%7C%7C%7C&VID=1002%7C%7C%7C&CPU=AMD PRO A10-8770 R7, 10 COMPUTE CORES 4C+6G    &OS=Windows7&OSBIT=64&OSLANG=zh_CN&utm_campaign=rserror&utm_medium=application&utm_source=driver-installer&utm_content=error1603%7CIM_GENERAL_ERROR_INSTALL
+CUiErrorHandler::IsErrorAnalyticSentAlready::[04-07-2019 10:19:12] Error Analytics not sent yet for 1603
+
+CUiErrorHandler::ErrorNotify::[04-07-2019 10:19:12] 错误 1603 – 安装 AMD Software 软件包期间发生常规错误 <a href="https://www.amd.com/zh-hans/support/kb/faq/gpu-kb1603?DID=9874%7C%7C%7C&VID=1002%7C%7C%7C&CPU=AMD PRO A10-8770 R7, 10 COMPUTE CORES 4C+6G    &OS=Windows7&OSBIT=64&OSLANG=zh_CN&utm_campaign=rserror&utm_medium=application&utm_source=driver-installer&utm_content=error1603%7CIM_GENERAL_ERROR_INSTALL/">单击此处了解更多信息</a>.
+CFinish::checkPackagesStatus::[04-07-2019 10:19:12] All the packages are failed.
+
+Configurations::IntializeHoloCubeCache::[04-07-2019 10:19:12] HoloCube is not connected or not avalable
+Configurations::IntializeHoloCubeCache::[04-07-2019 10:19:12] HoloCube is not connected or not avalable
+Configurations::IntializeHoloCubeCache::[04-07-2019 10:19:12] HoloCube is not connected or not avalable
+CFinish::checkPackagesStatus::[04-07-2019 10:19:12] All the packages are failed.
+
+CFinish::checkPackagesStatus::[04-07-2019 10:19:12] All the packages are failed.
+
+Configurations::SendDataToServer::[04-07-2019 10:19:12] Analytics sent successfully for /r/collect?v=1&_v=j33&aip=0&a=153463489&t=event&ni=1&_s=1&dl=http%3A%2F%2Finstaller%2F&ul=zh_CN&de=UTF-8&dt=driver-installer&ec=application&ea=error%201603%7CIM_GENERAL_ERROR_INSTALL&el=driver-installer&tid=UA-55985825-1&cd1=http%3A%2F%2Finstaller%2F&cd3=driverinstaller&cd17=https%3A%2F%2Fwww.amd.com%2Fzh-hans%2Fsupport%2Fkb%2Ffaq%2Fgpu-kb1603&cd24=child&cd35=(not%20et)&cd37=9874%7C%7C%7C&cd38=1002%7C%7C%7C&cd42=AMD PRO A10-8770 R7, 10 COMPUTE CORES 4C+6G    &cd43=Windows7&c
+CQtInstallerFacade::HandleReboot::[05-07-2019 11:16:57] Removed UpgradeAMD and UninstallCIM reg keys.
+
+CQtInstallerFacade::HandleReboot::[05-07-2019 11:16:57] Removed PCIDriverviaCIM reg keys.
+
+CInstallerFacade::HandleReboot::[05-07-2019 11:16:57] Reboot is not at all required
+LanguageManager::[05-07-2019 11:16:58] LanguageManager Deleted
+CFinish::restartNow::[05-07-2019 11:16:58] User selected to restart the system.
+
+CUiErrorHandler::GetFinalErrorStatus::[05-07-2019 11:16:58] m_eFinalStatus: 2 
+
+CUiErrorHandler::GetFinalErrorStatus::[05-07-2019 11:16:58] m_eFinalStatus: 2 
+
+
+===============[ END ]===================
