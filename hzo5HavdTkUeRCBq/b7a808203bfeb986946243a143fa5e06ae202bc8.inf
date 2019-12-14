@@ -1,0 +1,96 @@
+[Version]
+signature   =   "$Windows NT$"
+Provider 	=   %Msft%
+DriverVer   =   13/08/2013
+
+[DestinationDirs.ntamd64]
+DefaultDestDir	        = %10%\SysWOW64\drivers
+TDNetFilter.DriverFiles      = %10%\SysWOW64\drivers 			
+
+;;
+;; Default install sections
+;;
+
+[DefaultInstall.ntamd64]
+OptionDesc          = %TDNetFilterServiceDesc%
+;;CopyFiles           = TDNetFilter.DriverFiles
+
+[DefaultInstall.ntamd64.Services]
+AddService          = %TDNetFilterServiceName%,,TDNetFilter.Service64
+
+;;
+;; Default uninstall sections
+;;
+
+[DefaultUninstall.ntamd64]
+DelFiles   = TDNetFilter.DriverFiles
+
+[DefaultUninstall.ntamd64.Services]
+DelService = TDNetFilter,0x200		; Flags note to stop service first
+
+;
+; Services Section
+;
+
+[TDNetFilter.Service64]
+DisplayName      = %TDNetFilterServiceName%
+Description      = %TDNetFilterServiceDesc%
+ServiceBinary    = %10%\syswow64\drivers\%TDNetFilterServiceName%.sys  	;%windir%\system32\drivers\TDNetFilter.sys
+ServiceType      = 1					;SERVICE_KERNEL_DRIVER
+StartType        = 2					;SERVICE_auto_START
+ErrorControl     = 1					;SERVICE_ERROR_NORMAL
+
+
+[DestinationDirs.ntx86]
+DefaultDestDir	        = 12
+TDNetFilter.DriverFiles = 12			
+
+;;
+;; Default install sections
+;;
+
+[DefaultInstall.ntx86]
+OptionDesc          = %TDNetFilterServiceDesc%
+;;CopyFiles           = TDNetFilter.DriverFiles
+
+[DefaultInstall.ntx86.Services]
+AddService          = %TDNetFilterServiceName%,,TDNetFilter.Service32
+
+;;
+;; Default uninstall sections
+;;
+
+[DefaultUninstall.ntx86]
+DelFiles   = TDNetFilter.DriverFiles
+
+[DefaultUninstall.ntx86.Services]
+DelService = TDNetFilter,0x200		; Flags note to stop service first
+
+;
+; Services Section
+;
+
+[TDNetFilter.Service32]
+DisplayName      = %TDNetFilterServiceName%
+Description      = %TDNetFilterServiceDesc%
+ServiceBinary    =  %12%\%TDNetFilterServiceName%.sys  	;%windir%\system32\drivers\TDNetFilter.sys
+ServiceType      = 1					;SERVICE_KERNEL_DRIVER
+StartType        = 2					;SERVICE_auto_START
+ErrorControl     = 1					;SERVICE_ERROR_NORMAL
+
+;
+; Copy Files
+;
+
+[TDNetFilter.DriverFiles]
+TDNetFilter.sys,,,0x00000040   ; COPYFLG_OVERWRITE_OLDER_ONLY
+
+;;
+;; String Section
+;;
+
+[Strings]
+Msft              = "Mythware Corporation"
+TDNetFilterServiceDesc  = "Net Filter Driver"
+TDNetFilterServiceName  = "TDNetFilter"
+TDNetFilterRegistry     = "system\currentcontrolset\services\TDNetFilter"
