@@ -1,0 +1,30 @@
+[2019/07/04 22:08:58] CreateDirectory: "C:\Program Files (x86)\VulkanRT" created
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=2, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: wrote 15360 to "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] Call: 185
+[2019/07/04 22:08:58] File: overwriteflag=1, allowskipfilesflag=0, name="C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll"
+[2019/07/04 22:08:58] File: skipped: "C:\Users\ADMINI~1\AppData\Local\Temp\nsg4C2D.tmp\AccessControl.dll" (overwriteflag=1)
+[2019/07/04 22:08:58] File: overwriteflag=0, allowskipfilesflag=2, name="VulkanRT-License.txt"
+[2019/07/04 22:08:58] File: wrote 897 to "C:\Program Files (x86)\VulkanRT\VulkanRT-License.txt"
+[2019/07/04 22:08:58] File: overwriteflag=0, allowskipfilesflag=2, name="LICENSE.txt"
+[2019/07/04 22:08:58] File: wrote 6546 to "C:\Program Files (x86)\VulkanRT\LICENSE.txt"
+[2019/07/04 22:08:58] settings logging to 0
