@@ -1,0 +1,7 @@
+[Defaults]
+ConfigVersion=4
+GlobalPrefix=C:\FPC\2.6.2
+LocalPrefix={LocalRepository}
+Compiler=fpc
+OS=Win32
+CPU=i386
