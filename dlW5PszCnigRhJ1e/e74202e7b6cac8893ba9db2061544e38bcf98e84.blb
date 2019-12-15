@@ -1,0 +1,60 @@
+{
+	"rec_GPU":[
+		{
+		"gpu":"AMD Radeon VII",
+		"mem":16384,
+		"did":"VEN_1002&DEV_66AF&SUBSYS_081E1002&REV_C1"
+		},
+		{
+		"gpu":"Radeon RX Vega",
+		"mem":8192,
+		"did":"VEN_1002&DEV_687F&SUBSYS_0B361002&REV_C1"
+		},
+		{
+		"gpu":"Radeon RX 590 Series",
+		"mem":8192,
+		"did":"VEN_1002&DEV_67DF&SUBSYS_95871682&REV_E1"
+		},
+		{
+		"gpu":"Radeon RX 580 Series",
+		"mem":8192,
+		"did":"VEN_1002&DEV_67DF&SUBSYS_E3661DA2&REV_E7"
+		},
+		{
+		"gpu":"Radeon RX 570 Series",
+		"mem":4096,
+		"did":"VEN_1002&DEV_67DF&SUBSYS_E3661DA2&REV_EF"
+		},
+		{
+		"gpu":"Radeon RX 560 Series",
+		"mem":2048,
+		"did":"VEN_1002&DEV_67EF&SUBSYS_E3481DA2&REV_E5"
+		},
+		{
+		"gpu":"Radeon RX 550 Series",
+		"mem":2048,
+		"did":"VEN_1002&DEV_699F&SUBSYS_E3671DA2&REV_C0"
+		}
+	],
+			
+	"rec_CPU":[
+		{
+		"cpu":"AMD Ryzen 7 2700X Eight-Core Processor"
+		},
+		{
+		"cpu":"AMD Ryzen 7 2700 Eight-Core Processor"
+		},
+		{
+		"cpu":"AMD Ryzen 5 2600X Six-Core Processor"
+		},
+		{
+		"cpu":"AMD Ryzen 5 2600 Six-Core Processor"
+		},
+		{
+		"cpu":"AMD Ryzen 5 2400G with Radeon Vega Graphics"
+		},
+		{
+		"cpu":"AMD Ryzen 3 2200G with Radeon Vega Graphics"
+		}
+	]
+}
