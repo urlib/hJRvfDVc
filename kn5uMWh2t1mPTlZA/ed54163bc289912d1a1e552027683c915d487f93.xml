@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable xmlns="http://schemas.microsoft.com/windows/2008/deviceExperienceResources">
+  <string id="Picture_Task_Name">导入图片和视频</string>
+  <string id="Picture_Task_Description">将设备中的图片和视频传送至计算机</string>
+  <string id="Ringtone_Task_Name">设置铃声</string>
+  <string id="Ringtone_Task_Description">为您的移动电话添加、编辑或创建铃声</string>
+  <string id="Manage_Media_Task_Name">管理设备上的媒体</string>
+  <string id="Manage_Media_Task_Description">添加或删除音乐、图片和视频</string>
+  <string id="Sync_Task_Name">设置同步</string>
+  <string id="Sync_Task_Description">与您的设备同步联系人、日历、音乐等。</string>
+  <string id="Browse_Task_Name">浏览文件</string>
+  <string id="Browse_Task_Description">使用计算机查看设备上的文件和文件夹</string>
+  <string id="Settings_Task_Name">更改常规设置</string>
+  <string id="Settings_Task_Description">更改您的设备与 Windows 一起工作的方式</string>
+  <string id="Network_Configuration_Task_Name">配置设备进行网络访问</string>
+  <string id="Network_Configuration_Description">正在使用网络配置向导</string>
+</stringTable>
