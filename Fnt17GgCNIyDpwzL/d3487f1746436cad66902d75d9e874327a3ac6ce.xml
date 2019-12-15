@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable xmlns="http://schemas.microsoft.com/windows/2008/deviceExperienceResources">
+    <string id="1">查看正在打印的内容</string> 
+    <string id="2">查看、暂停或取消您的打印作业</string>
+    <string id="3">查看、暂停或取消您的打印作业</string>
+    <string id="4">自定义您的打印机</string> 
+    <string id="5">更改名称、安全设置或其他属性</string>
+    <string id="6">更改名称、安全设置或其他属性</string>
+    <string id="7">调整打印选项</string> 
+    <string id="8">更改颜色、布局或纸张设置</string>
+    <string id="9">更改颜色、布局或纸张设置</string>
+    <string id="10">扫描文档或图片</string>
+    <string id="11">打开扫描对话框</string>
+    <string id="12">打开扫描对话框</string>
+    <string id="13">管理扫描配置文件</string>
+    <string id="14">创建常用设置的集合</string>
+    <string id="15">创建常用设置的集合</string>
+    <string id="16">查看扫描仪属性</string>
+    <string id="17">获取有关您的设备的信息</string>
+    <string id="18">获取有关您的设备的信息</string>
+    <string id="19">浏览文件</string>
+    <string id="20">使用计算机查看设备上的文件和文件夹</string>
+    <string id="21">使用计算机查看设备上的文件和文件夹</string>
+</stringTable>
