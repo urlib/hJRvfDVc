@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "Microsoft-ApplicationInsights:::sampleRate": "100",
+    "Microsoft-ApplicationInsights-Dev:::sampleRate": "100",
+    "Microsoft-ApplicationInsights-Dev:::latency": "Realtime",
+    "xbox.xsapi:::sampleRate": "100",
+    "Office:::sampleRate": "100",
+    "Skype:::sampleRate": "100",
+    "Census:::sampleRate": "100",
+    "Microsoft.Windows.Appraiser.General::ms.CriticalData:sampleRate": "100",
+    "Microsoft.Windows.Appraiser.Instrumentation::ms.Telemetry:sampleRate": "100",
+    "Microsoft.Windows.Compatibility.Asl::ms.Telemetry:sampleRate": "5",
+    "Microsoft.Windows.Inventory.General::ms.CriticalData:sampleRate": "100",
+    "MicrosoftTelemetry::ms.CriticalData:sampleRate": "0",
+    "MicrosoftTelemetry::ms.Measures:sampleRate": "0",
+    "MicrosoftTelemetry::ms.Telemetry:sampleRate": "0",
+    "Setup360Telemetry::ms.CriticalData:sampleRate": "100",
+    "SetupPlatformTel::ms.CriticalData:sampleRate": "100",
+    "TelClientSynthetic:HeartBeat_5::sampleRate": "100"
+}}
