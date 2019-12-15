@@ -1,0 +1,180 @@
+[
+    {
+        "id": "adrenaline",
+        "title": "Learn more about Radeon Software",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2022 23:59",
+        "background_img": "https://download.amd.com/cccads/images/AMD_Software_Adreanlin%202019%20Edition_2200x900_BCG_landscape.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/AMD_Software_Adreanlin%202019%20Edition_2200x900_Logo_landscape.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "11/26/2017 01:00"
+    },
+    {
+        "id": "boderlands",
+        "title": "Learn More about 2K, Gearbox and AMD.",
+        "lnk": "https://www.amd.com/en/gaming/borderlands-3",
+        "tag": "notebook;desktop;radeon",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/BL3_2200x900_key_art_v2.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+        "TAG-PARTNER": "gearbox",
+        "LIVEDATE": "5/6/2019 01:00"
+    },
+    {
+        "id": "division",
+        "title": "Gear up to Save DC with AMD Radeon™ graphics and Ryzen™ processors. Preorder Now.",
+        "lnk": "https://www.amd.com/en/gaming/tom-clancys-the-division-2",
+        "tag": "notebook;desktop;radeon",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/TCTD2-radeonbanner2.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/43aspect.png",
+        "TAG-PARTNER": "ubisoft",
+        "LIVEDATE": "11/16/2018 01:00"
+    },
+    {
+        "id": "ReLivePro",
+        "title": "Learn more about Radeon Pro Software",
+        "lnk": "https://www.amd.com/en/technologies/radeon-pro-software",
+        "tag": "workstation;child",
+        "expires": "12/8/2099 23:59",
+        "background_img": "https://download.amd.com/cccads/images/relivepro_background.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/AMD_Radeon_Pro_Software_Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "12/7/2016 0:00"
+    },
+    {
+        "id": "dmc",
+        "title": "Legacy DMC action is back, maximize the mayhem with AMD! Preorder Now.",
+        "lnk": "https://www.amd.com/en/gaming/devil-may-cry-5",
+        "tag": "notebook;desktop;radeon",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/DMC5-radeonbanner.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/DMC5-radeonbannerlogo.png",
+        "TAG-PARTNER": "capcom",
+        "LIVEDATE": "11/16/2018 01:00"
+    },
+    {
+        "id": "Workstation",
+        "title": "Click to learn more about Radeon Pro",
+        "lnk": "http://www.amd.com/Radeonpro",
+        "tag": "workstation;child",
+        "expires": "2/8/2099 15:41",
+        "background_img": "https://download.amd.com/cccads/images/radeon_pro_setting_2200x900_bcg.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon_Pro_Logo_CN.png",
+        "installer_img": "https://download.amd.com/cccads/images/radeon_pro_installer_800x600.jpg",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "2/8/2016 0:00"
+    },
+    {
+        "id": "Workstation2",
+        "title": "Discover Radeon ProRender",
+        "lnk": "https://www.amd.com/en/technologies/radeon-prorender",
+        "tag": "workstation;child",
+        "expires": "2/8/2099 15:41",
+        "background_img": "https://download.amd.com/cccads/images/ProRender%20lighthouse%20driver%20banner%20no%20logo.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/AMD_Radeon_ProRender_Logo.png",
+        "installer_img": "https://download.amd.com/cccads/images/prorender_radeon_pro_installer_2200x900.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/28/2016 0:00"
+    },
+    {
+        "id": "wattman",
+        "title": "Learn More",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-wattman",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Radeon%20Wattman%20Baner%202200x900px.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon%20Wattman%20Baner%20900x600px-Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2018 01:00"
+    },
+    {
+        "id": "link",
+        "title": "Learn More",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-amdlink",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/AMD%20LINK%20Baner%202200x900px.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/AMD%20LINK%20Baner%20900x600px%20Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2018 01:00"
+    },
+    {
+        "id": "sync",
+        "title": "Learn More",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-enhancedsync",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Enhanced%20Sync%20Baner%202200x900px_V2.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Enhanced%20Sync%20Baner%20900x600px_V2-Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2018 01:00"
+    },
+    {
+        "id": "settings",
+        "title": "Learn More",
+        "lnk": "https://gaming.radeon.com/en/radeonsoftware/adrenalin/",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2018 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Radeon%20Settings%202200x900px_V2.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon%20Settings%20900x600px_V2-Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2020 01:00"
+    },
+    {
+        "id": "wwz",
+        "title": "Get your friends together and survive the hordes of dead with AMD. Learn More!",
+        "lnk": "https://www.amd.com/en/gaming/world-war-z",
+        "tag": "notebook;desktop;radeon",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/wwz-radeonbanner.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/CN_SMALL_IMAGE_wwz.png",
+        "TAG-PARTNER": "saber",
+        "LIVEDATE": "11/17/2018 11:00"
+    },
+    {
+        "id": "chill",
+        "title": "Learn More",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-chill",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Radeon%20Chill%20Baner1%202200x900px.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon%20Chill%20Baner1%20900x600px-Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2018 01:00"
+    },
+    {
+        "id": "overlay",
+        "title": "Learn More",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-overlay",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2020 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Radeon%20Overlay%20Baner%202200x900px.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon%20Overlay%20Baner%20900x600px-Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "10/16/2018 01:00"
+    },
+    {
+        "id": "ReLive",
+        "title": "Learn more",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-relive",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2025 23:59",
+        "background_img": "https://download.amd.com/cccads/images/AMD_Radeon_ReLive_2200x900px_BCG.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/AMD_Radeon_ReLive_2200x900px_Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "12/13/2018 10:00"
+    },
+    {
+        "id": "Advisors",
+        "title": "Learn more",
+        "lnk": "https://www.amd.com/en/technologies/radeon-software-advisor",
+        "tag": "notebook;desktop;radeon;child",
+        "expires": "12/30/2025 23:59",
+        "background_img": "https://download.amd.com/cccads/images/Radeon_Advisors_2200x900px_BCG.jpg",
+        "logo_img": "https://download.amd.com/cccads/images/Radeon_Advisors_2200x900px_Logo.png",
+        "TAG-PARTNER": "AMD",
+        "LIVEDATE": "12/13/2018 10:00"
+    }
+]
