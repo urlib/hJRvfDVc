@@ -1,0 +1,61 @@
+{
+   "checksum": "8d2fae5b2108c6c5591bb524a45a73e0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13206860857388575",
+            "guid": "9d783160-1cdd-41be-8347-410df813192d",
+            "id": "5",
+            "name": "XJOI",
+            "type": "url",
+            "url": "http://210.33.19.105/?rand=XSAjM6wRAAIAAAMuaccAAAAA20190706042731"
+         }, {
+            "date_added": "13206860885518473",
+            "guid": "c4e390ee-6af8-4101-8576-71e1b491ecfa",
+            "id": "7",
+            "name": "Virtual Judge",
+            "type": "url",
+            "url": "https://vjudge.net/"
+         }, {
+            "date_added": "13206860872140282",
+            "guid": "b05210be-1bf2-4349-9cdb-3b7804b1f8f8",
+            "id": "6",
+            "name": "洛谷",
+            "type": "url",
+            "url": "https://www.luogu.org/"
+         }, {
+            "date_added": "13220768504853768",
+            "guid": "cc13670e-7efd-4e23-97be-c52015151ad7",
+            "id": "10",
+            "name": "莫队算法——从入门到黑题 - WAMonster - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/WAMonster/p/10118934.html"
+         } ],
+         "date_added": "13206860819581407",
+         "date_modified": "13220768504853768",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13206860819581467",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13206860819581473",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
